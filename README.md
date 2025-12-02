@@ -48,9 +48,9 @@ Mostrar mi capacidad para diseñar modelos de datos, desarrollar DAX, crear visu
 [forks-url]: https://github.com/Helena-Alcolea/Proyecto_Libreria/forks
 [stars-shield]: https://img.shields.io/github/stars/Helena-Alcolea/Proyecto_Libreria.svg?style=flat
 [stars-url]: https://github.com/Helena-Alcolea/Proyecto_Libreria/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Helena-Alcolea/Proyecto_Libreria.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/Helena-Alcolea/Proyecto_Libreria.svg?style=flat
 [issues-url]: https://github.com/Helena-Alcolea/Proyecto_Libreria/issues
-[license-shield]: https://img.shields.io/github/license/Helena-Alcolea/Proyecto_Libreria.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/Helena-Alcolea/Proyecto_Libreria.svg?style=flat
 [license-url]: https://github.com/Helena-Alcolea/Proyecto_Libreria/blob/main/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/helena-alcolea
