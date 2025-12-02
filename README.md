@@ -1,3 +1,20 @@
+<a name="readme-top"></a>
+
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 # Dashboard de Librería (Power BI)
 
 Proyecto de Power BI que analiza el rendimiento de una librería ficticia en España. Incluye métricas de ventas, comportamiento de clientes, tipos de socio y estacionalidad. Diseñado como parte de mi portfolio personal.
@@ -21,3 +38,19 @@ Mostrar mi capacidad para diseñar modelos de datos, desarrollar DAX, crear visu
 2. Abrir el proyecto con Power BI Desktop.
 3. Comprobar que las rutas de los CSV sean correctas; si es necesario, actualizar el origen desde Power Query.
 4. Refrescar los datos para visualizar el dashboard.
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/Javier-Requena/Bitcoin_next_day_price_prediction-RNN-LSTM-python.svg?style=for-the-badge
+[contributors-url]: https://github.com/Javier-Requena/Bitcoin_next_day_price_prediction-RNN-LSTM-python/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Helena-Alcolea/Bitcoin_next_day_price_prediction-RNN-LSTM-python.svg?style=for-the-badge
+[forks-url]: https://github.com/Javier-Requena/Bitcoin_next_day_price_prediction-RNN-LSTM-python/forks
+[stars-shield]: https://img.shields.io/github/stars/Javier-Requena/Bitcoin_next_day_price_prediction-RNN-LSTM-python.svg?style=for-the-badge
+[stars-url]: https://github.com/Javier-Requena/Bitcoin_next_day_price_prediction-RNN-LSTM-python/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Javier-Requena/Bitcoin_next_day_price_prediction-RNN-LSTM-python.svg?style=for-the-badge
+[issues-url]: https://github.com/Javier-Requena/Bitcoin_next_day_price_prediction-RNN-LSTM-python/issues
+[license-shield]: https://img.shields.io/github/license/Javier-Requena/Bitcoin_next_day_price_prediction-RNN-LSTM-python.svg?style=for-the-badge
+[license-url]: https://github.com/Javier-Requena/Bitcoin_next_day_price_prediction-RNN-LSTM-python/blob/main/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: www.linkedin.com/in/helena-alcolea
