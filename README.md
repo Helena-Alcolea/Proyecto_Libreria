@@ -53,4 +53,4 @@ Mostrar mi capacidad para diseñar modelos de datos, desarrollar DAX, crear visu
 [license-shield]: https://img.shields.io/github/license/Helena-Alcolea/Proyecto_Libreria.svg?style=for-the-badge
 [license-url]: https://github.com/Helena-Alcolea/Proyecto_Libreria/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: www.linkedin.com/in/helena-alcolea
+[linkedin-url]: https://www.linkedin.com/in/helena-alcolea
