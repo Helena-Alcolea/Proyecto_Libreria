@@ -59,15 +59,15 @@ Project Link: [https://github.com/Helena-Alcolea/Proyecto_Libreria](https://gith
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Helena-Alcolea/Proyecto_Libreria.svg?style=flat
-[contributors-url]: https://github.com/Helena-Alcolea/Proyecto_Libreria/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Helena-Alcolea/Proyecto_Libreria.svg?style=flat
-[forks-url]: https://github.com/Helena-Alcolea/Proyecto_Libreria/forks
-[stars-shield]: https://img.shields.io/github/stars/Helena-Alcolea/Proyecto_Libreria.svg?style=flat
-[stars-url]: https://github.com/Helena-Alcolea/Proyecto_Libreria/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Helena-Alcolea/Proyecto_Libreria.svg?style=flat
-[issues-url]: https://github.com/Helena-Alcolea/Proyecto_Libreria/issues
-[license-shield]: https://img.shields.io/github/license/Helena-Alcolea/Proyecto_Libreria.svg?style=flat
-[license-url]: https://github.com/Helena-Alcolea/Proyecto_Libreria/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/Helena-Alcolea/proyecto-libreria-powerbi.svg?style=flat
+[contributors-url]: https://github.com/Helena-Alcolea/proyecto-libreria-powerbi/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Helena-Alcolea/proyecto-libreria-powerbi.svg?style=flat
+[forks-url]: https://github.com/Helena-Alcolea/proyecto-libreria-powerbi/forks
+[stars-shield]: https://img.shields.io/github/stars/Helena-Alcolea/proyecto-libreria-powerbi.svg?style=flat
+[stars-url]: https://github.com/Helena-Alcolea/proyecto-libreria-powerbi/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Helena-Alcolea/proyecto-libreria-powerbi.svg?style=flat
+[issues-url]: https://github.com/Helena-Alcolea/proyecto-libreria-powerbi/issues
+[license-shield]: https://img.shields.io/github/license/Helena-Alcolea/proyecto-libreria-powerbi.svg?style=flat
+[license-url]: https://github.com/Helena-Alcoleaproyecto-libreria-powerbi/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/helena-alcolea
