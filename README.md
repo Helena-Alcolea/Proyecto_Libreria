@@ -15,45 +15,79 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# Dashboard de Librería (Power BI)
+# Dashboard de Librería · Bookshop Dashboard (Power BI)
 
-Proyecto de Power BI que analiza el rendimiento de una librería ficticia en España. Incluye métricas de ventas, comportamiento de clientes, tipos de socio y estacionalidad. Diseñado como parte de mi portfolio personal.
+Proyecto de Power BI que analiza el rendimiento de una librería ficticia en España.
+Incluye métricas de ventas, comportamiento de clientes, rentabilidad y estacionalidad.
+Diseñado como parte de mi portfolio personal de ciencia de datos.
 
-## Objetivo del proyecto
-Mostrar mi capacidad para diseñar modelos de datos, desarrollar DAX, crear visualizaciones claras y preparar un dashboard funcional y contextualizado para un entorno de negocio realista.
+Power BI project analysing the performance of a fictional bookshop in Spain.
+Covers sales metrics, customer behaviour, profitability, and seasonality.
+Built as part of my personal data science portfolio.
 
-## Tecnologías empleadas
-- Power BI Desktop
-- DAX
-- Excel/CSV para modelado de datos
-- Power Query
+## Tecnologías · Tech stack
 
-## Contenido del repositorio
-- Archivo .pbix con el dashboard completo
-- Capturas de pantalla del dashboard y del modelo de datos
-- Archivos README y LICENSE
+Power BI Desktop · DAX · Power Query · Python · Pandas · Excel/CSV
 
-## Cómo usarlo
-1. Descargar el archivo `.pbix`.
-2. Abrir el proyecto con Power BI Desktop.
-3. Comprobar que las rutas de los CSV sean correctas; si es necesario, actualizar el origen desde Power Query (REVISAR).
-4. Refrescar los datos para visualizar el dashboard (revisar).
+---
+
+## Estructura del dashboard · Dashboard structure
+
+**Página 1 — Top más vendidos · Best Sellers**
+- KPIs: total de libros vendidos, títulos distintos vendidos, autores distintos vendidos
+- Rankings de autores y libros más vendidos
+- Filtros: fecha, tipo de cliente, género y formato del libro
+
+**Página 2 — Análisis económico · Financial Analysis**
+- KPIs: ingresos netos (sin IVA), gastos variables, beneficio operativo, ROI
+- Desglose de ingresos netos por categoría
+- Ingresos netos por mes (gráfico de barras)
+- Gastos vs. beneficio operativo por género literario y unidades vendidas
+- Filtros: fecha, cliente, libro
+
+**Página 3 — Análisis de clientes · Customer Analysis**
+- KPIs: número de clientes, pedidos, pedidos por cliente, libros por pedido
+- Desglose de clientes por tipo de socio y grupo de edad
+- Beneficio operativo mensual por tipo de socio/edad
+- Porcentaje de libros vendidos por tipo de socio/edad y género literario
+- Filtros: fecha, género del cliente, género literario y editorial
+
+El dashboard incluye funcionalidades de drill-through y tooltips personalizados.
+The dashboard includes drill-through functionality and custom tooltips.
+
+## Modelo de datos · Data model
+
+Esquema en copo de nieve construido sobre cuatro tablas:
+Snowflake schema built on four tables:
+
+- `customers.csv` — datos de clientes y tipo de socio · customer and membership data
+- `orders.csv` — registro de pedidos · order records
+- `libros.csv` — catálogo de libros · book catalogue
+- `autores.csv` — datos de autores · author data
+
+---
+
+## Cómo usarlo · How to use
+
+1. Descarga el archivo `.pbix` · Download the `.pbix` file
+2. Ábrelo con Power BI Desktop · Open with Power BI Desktop
+3. Si es necesario, actualiza las rutas de los CSV desde Power Query · If needed, update the CSV paths in Power Query
+4. Refresca los datos · Refresh the data
+
+## Capturas · Screenshots
+
+![Dashboard](screenshots/Photo1.png)
+![Dashboard](screenshots/Photo3.png)
+![Dashboard](screenshots/Photo7.png)
+
+---
 
 <!-- LICENSE -->
-## Licencia
 
-Distribuido bajo una licencia MIT. Ver `LICENSE.txt` para más información.
+## Licencia · License
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contacto
-
-**Helena Alcolea Ruiz** - [GitHub](https://github.com/Helena-Alcolea) - helena.alcolea@protonmail.com
-
-Project Link: [https://github.com/Helena-Alcolea/proyecto-libreria-powerbi](https://github.com/Helena-Alcolea/proyecto-libreria-powerbi)
+Distribuido bajo licencia MIT. Ver `LICENSE.txt`.
+Distributed under MIT License. See `LICENSE.txt`.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
