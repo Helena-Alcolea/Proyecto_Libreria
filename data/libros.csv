@@ -1,0 +1,645 @@
+id;ranking_genero;titulo;precio;editorial;genero;idioma;numero_paginas;encuadernacion;fecha_lanzamiento;año_de_edicion;img_portada;autor_id
+1;nn1;LA ASISTENTA;19,90;Suma;Novela negra;Castellano;344;Tapa blanda;05/10/2023;2023;https://imagessl3.casadellibro.com/a/l/s7/83/9788491294283.webp;1
+2;nn2;LA SAGA DE LOS LONGEVOS 3. EL CAMINO DEL PADRE;22,90;Editorial Planeta;Novela negra;Castellano;432;Tapa dura;18/06/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/53/9788408304753.webp;2
+3;nn3;EL SECRETO DE LA ASISTENTA (LA ASISTENTA 2);20,90;Suma;Novela negra;Castellano;336;Tapa blanda;09/05/2024;2024;https://imagessl4.casadellibro.com/a/l/s7/34/9788419835734.webp;1
+4;nn4;LA MUY CATASTRÓFICA VISITA AL ZOO;19,90;Alfaguara;Novela negra;Castellano;232;Tapa blanda;03/04/2025;2025;https://imagessl2.casadellibro.com/a/l/s7/02/9788410496002.webp;3
+5;nn5;NO TENGAS MIEDO;24,90;Plaza & Janes;Novela negra;Castellano;608;Tapa dura;12/06/2025;2025;https://imagessl5.casadellibro.com/a/l/s7/35/9788401036835.webp;4
+6;nn6;LA BODA DE LA ASISTENTA;7,90;Suma;Novela negra;Castellano;96;Tapa blanda;22/05/2025;2025;https://imagessl6.casadellibro.com/a/l/s7/46/9788491299646.webp;1
+7;nn7;LA ASISTENTA TE VIGILA (LA ASISTENTA 3);20,90;Suma;Novela negra;Castellano;368;Tapa blanda;11/07/2024;2024;https://imagessl4.casadellibro.com/a/l/s7/84/9788410257184.webp;1
+8;nn8;MISTERIO EN EL BARRIO GOTICO;20,90;Editorial Planeta;Novela negra;Castellano;256;Tapa dura;25/06/2025;2025;https://imagessl0.casadellibro.com/a/l/s7/10/9788408305910.webp;5
+9;nn9;TRAS LA PUERTA;20,90;Suma;Novela negra;Castellano;312;Tapa blanda;10/04/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/33/9788410257733.webp;1
+10;nn10;EL ASESINATO DE ARISTÓTELES;23,90;Editorial Planeta;Novela negra;Castellano;568;Tapa dura;21/05/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/13/9788408302513.webp;6
+11;nn11;LA ÚLTIMA PRINCESA;21,90;Editorial Planeta;Novela negra;Castellano;384;Tapa dura;11/06/2025;2025;https://imagessl0.casadellibro.com/a/l/s7/60/9788408304760.webp;7
+12;nn12;EL ÚLTIMO SECRETO;24,90;Editorial Planeta;Novela negra;Castellano;832;Tapa dura;10/09/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/63/9788408306863.webp;8
+13;nn13;NUNCA MIENTAS;20,90;Suma;Novela negra;Castellano;320;Tapa blanda;10/07/2025;2025;https://imagessl8.casadellibro.com/a/l/s7/18/9788410257818.webp;1
+14;nn14;HORIZONTE ARTIFICIAL;21,90;Roca Editorial;Novela negra;Castellano;304;Tapa blanda;29/05/2025;2025;https://imagessl4.casadellibro.com/a/l/s7/64/9788410096264.webp;9
+15;nn15;JOTADE;20,90;Alfaguara;Novela negra;Castellano;392;Tapa blanda;13/03/2025;2025;https://imagessl8.casadellibro.com/a/l/s7/98/9788410299498.webp;10
+16;nn16;EL ALBATROS NEGRO;23,90;Plaza&janes;Novela negra;Castellano;616;Tapa dura;04/03/2025;2025;https://imagessl4.casadellibro.com/a/l/s7/94/9788401034794.webp;11
+17;nn17;LOS MENSAJEROS DE LA OSCURIDAD (SERIE CHARLIE PARKER 22);21,90;Tusquets Editores S.A.;Novela negra;Castellano;528;Tapa blanda;04/06/2025;2025;https://imagessl1.casadellibro.com/a/l/s7/01/9788411076401.webp;12
+18;nn18;ESTUCHE LA SAGA DE LOS LONGEVOS;67,70;Editorial Planeta;Novela negra;Castellano;1184;Tapa dura;18/06/2025;2025;https://imagessl9.casadellibro.com/a/l/s7/79/9788408305279.webp;2
+19;nn19;LA SAGA DE LOS LONGEVOS 2. LOS HIJOS DE ADÁN;21,90;Editorial Planeta;Novela negra;Castellano;336;Tapa dura;19/02/2025;2025;https://imagessl7.casadellibro.com/a/l/s7/07/9788408298007.webp;2
+20;nn20;LAS FUERZAS CONTRARIAS;22,90;Ediciones Destino;Novela negra;Castellano;408;Tapa dura;05/03/2025;2025;https://imagessl7.casadellibro.com/a/l/s7/77/9788423367177.webp;13
+21;nn21;LA CASA DE LAS AMAPOLAS;21,90;Ndenovela;Novela negra;Castellano;424;Tapa dura;02/04/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/33/9788410140233.webp;14
+22;nn22;LA TUMBA VELOZ (CORMORAN STRIKE 7);28,00;Salamandra;Novela negra;Castellano;1120;Tapa blanda;26/06/2025;2025;https://imagessl5.casadellibro.com/a/l/s7/95/9788410340695.webp;15
+23;nn23;LA SAGA DE LOS LONGEVOS 1. LA VIEJA FAMILIA;22,90;Editorial Planeta;Novela negra;Castellano;480;Tapa dura;02/10/2024;2024;https://imagessl2.casadellibro.com/a/l/s7/92/9788408292692.webp;2
+24;nn24;EL RECLUSO;20,90;Suma;Novela negra;Castellano;328;Tapa blanda;16/01/2025;2025;https://imagessl1.casadellibro.com/a/l/s7/11/9788410257511.webp;1
+25;nn25;EL MISTERIO HANNAH LARSON;21,90;Alfaguara;Novela negra;Castellano;512;Tapa blanda;14/05/2025;2025;https://imagessl1.casadellibro.com/a/l/s7/61/9788410299061.webp;16
+26;nn26;LAS QUE NO DUERMEN NASH;23,90;Ediciones Destino;Novela negra;Castellano;608;Tapa dura;13/11/2024;2024;https://imagessl4.casadellibro.com/a/l/s7/84/9788423366484.webp;17
+27;nn27;NADA BUENO GERMINA;22,90;Ediciones Destino;Novela negra;Castellano;528;Tapa dura;07/05/2025;2025;https://imagessl2.casadellibro.com/a/l/s7/72/9788423367672.webp;18
+28;nn28;EL CASO SALGUEIRO;20,90;Alfaguara;Novela negra;Castellano;408;Tapa blanda;27/02/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/83/9788420477183.webp;19
+29;nn29;EL ESPÍA;22,90;Editorial Planeta;Novela negra;Castellano;432;Tapa dura;09/04/2025;2025;https://imagessl5.casadellibro.com/a/l/s7/85/9788408300885.webp;20
+30;nn30;LA MUERTE BLANCA (TRILOGÍA DEL VERDUGO 3);22,90;Grijalbo;Novela negra;Castellano;560;Tapa blanda;26/06/2025;2025;https://imagessl7.casadellibro.com/a/l/s7/27/9788425370427.webp;21
+31;nn31;EL CLAN (INSPECTORA ELENA BLANCO 5);21,90;Editorial Planeta;Novela negra;Castellano;456;Tapa blanda;10/09/2024;2024;https://imagessl8.casadellibro.com/a/l/s7/68/9788408291268.webp;22
+32;nn32;NUEVA NOVELA JAVIER CASTILLO;22,90;Suma;Novela negra;Castellano;448;Tapa blanda;01/10/2025;2025;https://imagessl0.casadellibro.com/a/l/s7/90/9788491299790.webp;23
+33;nn33;UN ANIMAL SALVAJE;23,90;Alfaguara;Novela negra;Castellano;448;Tapa blanda;04/04/2024;2024;https://imagessl1.casadellibro.com/a/l/s7/41/9788420476841.webp;3
+34;nn34;DONDE NACEN LAS BESTIAS;22,90;B;Novela negra;Castellano;512;Tapa blanda;14/05/2025;2025;https://imagessl2.casadellibro.com/a/l/s7/52/9788466682152.webp;24
+35;nn35;EL MAESTRO DEL PRADO;20,00;Editorial Planeta;Novela negra;Castellano;336;Tapa dura;26/02/2025;2025;https://imagessl0.casadellibro.com/a/l/s7/90/9788408030690.webp;25
+36;nn36;VECINOS COTILLAS (COZY MYSTERY);19,95;Editorial Alma;Novela negra;Castellano;448;Tapa blanda;11/06/2025;2025;https://imagessl2.casadellibro.com/a/l/s7/92/9788410206892.webp;26
+37;nn37;LA MALA HIJA;21,76;Ediciones Destino;Novela negra;Castellano;656;Tapa blanda;02/04/2025;2025;https://imagessl4.casadellibro.com/a/l/s7/44/9788423367344.webp;27
+38;nn38;STRANGE HOUSES;20,90;Reservoir Books;Novela negra;Castellano;224;Tapa blanda;10/07/2025;2025;https://imagessl7.casadellibro.com/a/l/s7/47/9788410352247.webp;28
+39;nn39;TODO MUERE (TODO ARDE 3);24,90;B;Novela negra;Castellano;648;Tapa dura;05/11/2024;2024;https://imagessl3.casadellibro.com/a/l/s7/23/9788466679923.webp;29
+40;nn40;NO MIENTAS;12,90;Newton Compton Editores;Novela negra;Castellano;416;Tapa dura;13/01/2025;2025;https://imagessl0.casadellibro.com/a/l/s7/60/9788410080560.webp;30
+41;nn41;NO MIENTAS;12,90;Newton Compton Editores;Novela negra;Castellano;416;Tapa dura;13/01/2025;2025;https://imagessl0.casadellibro.com/a/l/s7/60/9788410080560.webp;30
+42;nn42;EL ABOGADO DEL LINCOLN;21,95;Adn Editorial Grupo Anaya;Novela negra;Castellano;488;Tapa blanda;22/05/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/53/9788410138353.webp;31
+43;nn43;LOS COLMILLOS DEL LINCE (SERIE MILLENNIUM 8);22,90;Ediciones Destino;Novela negra;Castellano;544;Tapa blanda;30/04/2025;2025;https://imagessl5.casadellibro.com/a/l/s7/95/9788423367795.webp;32
+44;nn44;ASESINATO EN LA CASA ROSA (LOS CRÍMENES DE LOEIRO 1);20,90;Lumen;Novela negra;Castellano;440;Tapa blanda;23/01/2025;2025;https://imagessl0.casadellibro.com/a/l/s7/10/9788426426710.webp;33
+45;nn45;LA GRIETA DEL SILENCIO;21,90;Suma;Novela negra;Castellano;448;Tapa blanda;16/04/2024;2024;https://imagessl0.casadellibro.com/a/l/s7/10/9788491296010.webp;23
+46;nn46;LA MUJER DE ARRIBA;21,90;Suma;Novela negra;Castellano;352;Tapa dura;21/11/2024;2024;https://imagessl2.casadellibro.com/a/l/s7/02/9788491298502.webp;1
+47;nn47;EL MISTERIO DE LA TURISTA QUE MURIÓ DOS VECES;22,90;Espasa;Novela negra;Castellano;712;Tapa dura;04/06/2025;2025;https://imagessl8.casadellibro.com/a/l/s7/28/9788467076028.webp;34
+48;nn48;ASESINATO EN PARÍS;16,00;Bod - Books on Demand;Novela negra;Castellano;256;Tapa blanda;02/06/2025;2025;https://imagessl8.casadellibro.com/a/l/s7/98/9788413738598.webp;35
+49;nn49;OLVIDADAS (TENIENTE LUCÍA GUERRERO 2);22,00;Salamandra;Novela negra;Castellano;400;Tapa blanda;22/05/2025;2025;https://imagessl5.casadellibro.com/a/l/s7/05/9788410340305.webp;36
+50;nn50;LA CATASTROFICA VISITA AL ZOO;19,90;La Campana;Novela negra;Catalán;224;Tapa blanda;03/04/2025;2025;https://imagessl9.casadellibro.com/a/l/s7/79/9788419836779.webp;3
+51;nn51;LA MUERTE AJENA;21,90;Alfaguara;Novela negra;Castellano;384;Tapa blanda;29/05/2025;2025;https://imagessl7.casadellibro.com/a/l/s7/67/9788410299467.webp;37
+52;nn52;LA PACIENTE SILENCIOSA;21,90;Alfaguara;Novela negra;Castellano;384;Tapa blanda;05/09/2019;2019;https://imagessl3.casadellibro.com/a/l/s7/03/9788420435503.webp;38
+53;nn53;LA PROFESORA;20,90;Suma;Novela negra;Castellano;360;Tapa blanda;18/09/2025;2025;https://imagessl7.casadellibro.com/a/l/s7/07/9788491299707.webp;1
+54;nn54;EL CORAZON DE LOS AHOGADOS;5,95;Espasa;Novela negra;Castellano;344;Tapa blanda;02/02/2022;2022;https://imagessl2.casadellibro.com/a/l/s7/92/9788467063592.webp;39
+56;nn56;VICTORIAN PSYCHO;19,90;Lumen;Novela negra;Castellano;216;Tapa blanda;09/01/2025;2025;https://imagessl5.casadellibro.com/a/l/s7/95/9788426424495.webp;41
+57;nn57;EL CAZADOR DE LIBROS;24,90;B;Novela negra;Castellano;608;Tapa blanda;05/06/2025;2025;https://imagessl5.casadellibro.com/a/l/s7/75/9788466682275.webp;42
+58;nn58;SUEÑOS DE BRONCE (SERIE FAYE 3);21,90;Editorial Planeta;Novela negra;Castellano;392;Tapa blanda;05/02/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/23/9788408298823.webp;43
+59;nn59;ALMA NEGRA (INSPECTORA ANE CESTERO 4);21,90;Plaza&janes;Novela negra;Castellano;456;Tapa blanda;07/01/2025;2025;https://imagessl0.casadellibro.com/a/l/s7/70/9788401034770.webp;44
+60;nn60;LA DESCONOCIDA;21,90;Rba Libros;Novela negra;Castellano;480;Tapa blanda;02/04/2025;2025;https://imagessl8.casadellibro.com/a/l/s7/68/9788411326568.webp;45
+61;nn61;EL EXAMINADOR;22,95;Atico de los Libros;Novela negra;Castellano;600;Tapa blanda;05/05/2025;2025;https://imagessl7.casadellibro.com/a/l/s7/97/9788419703897.webp;46
+62;nn62;L ASSISTENTA (L ASSISTENTA 1);20,90;Rosa Dels Vents;Novela negra;Catalán;344;Tapa blanda;10/04/2025;2025;https://imagessl7.casadellibro.com/a/l/s7/47/9788419756947.webp;1
+63;nn63;EL GABINETE DEL DR. LENG (INSPECTOR PENDERGAST 21);22,90;Plaza&janes;Novela negra;Castellano;432;Tapa blanda;10/04/2025;2025;https://imagessl0.casadellibro.com/a/l/s7/20/9788401032820.webp;47
+64;nn64;CRUCES DE PEDRA NA BRETAÑA, AS;21,90;Grijalbo;Novela negra;Castellano;504;Tapa blanda;01/06/2023;2023;https://imagessl0.casadellibro.com/a/l/s7/90/9788425364990.webp;21
+65;nn65;AGATHA RAISIN Y EL CRIMEN DE LA MANSIÓN (AGATHA RAISIN 10);18,00;Salamandra;Novela negra;Castellano;256;Tapa blanda;10/07/2025;2025;https://imagessl1.casadellibro.com/a/l/s7/81/9788410340381.webp;48
+66;nn66;LA MÁSCARA DE DIMITRIOS (COLECCION ZENDA);17,00;Editora y Distribuidora Hispano Americana, S.A.;Novela negra;Castellano;352;Tapa blanda;12/02/2025;2025;https://imagessl5.casadellibro.com/a/l/s7/65/9788435055765.webp;49
+67;nn67;LOS NIÑOS DE LA CASA DEL LAGO;20,90;Harpercollins;Novela negra;Castellano;400;Tapa blanda;23/04/2025;2025;https://imagessl9.casadellibro.com/a/l/s7/59/9788410642959.webp;50
+68;nn68;TODO MUERE (EDICIÓN ESPECIAL LIMITADA) (TODO ARDE 3);17,90;B;Novela negra;Castellano;648;Tapa blanda;10/07/2025;2025;https://imagessl5.casadellibro.com/a/l/s7/35/9788466682435.webp;29
+69;nn69;RESOLVEMOS ASESINATOS;21,90;Editorial Planeta;Novela negra;Castellano;504;Tapa blanda;05/03/2025;2025;https://imagessl6.casadellibro.com/a/l/s7/96/9788408300496.webp;51
+70;nn70;LA HORA DEL LOBO (TRILOGIA DEL VERDUGO 2);21,90;Grijalbo;Novela negra;Castellano;560;Tapa blanda;13/06/2024;2024;https://imagessl2.casadellibro.com/a/l/s7/92/9788425367892.webp;21
+71;nn71;CATEDRALES;20,90;Alfaguara;Novela negra;Castellano;336;Tapa blanda;21/01/2021;2021;https://imagessl4.casadellibro.com/a/l/s7/94/9788420455594.webp;37
+72;nn72;STRANGE PICTURES;20,90;Reservoir Books;Novela negra;Castellano;288;Tapa blanda;23/01/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/63/9788410352063.webp;28
+73;nn73;SUAVE ES LA FURIA;21,90;Alfaguara;Novela negra;Castellano;344;Tapa blanda;05/06/2025;2025;https://imagessl7.casadellibro.com/a/l/s7/37/9788410299337.webp;52
+74;nn74;FRAGRANCIA;20,90;Lumen;Novela negra;Castellano;280;Tapa blanda;12/06/2025;2025;https://imagessl8.casadellibro.com/a/l/s7/38/9788426432438.webp;53
+75;nn75;LA HABITACIÓN DE LAS VOCES;12,90;Newton Compton Editores;Novela negra;Castellano;416;Tapa dura;16/06/2025;2025;https://imagessl1.casadellibro.com/a/l/s7/51/9788410359451.webp;54
+76;nn76;EL HIJO OLVIDADO;22,90;B;Novela negra;Castellano;576;Tapa blanda;25/01/2024;2024;https://imagessl8.casadellibro.com/a/l/s7/18/9788466677318.webp;55
+77;nn77;EL BRILLO DE LAS LUCIERNAGAS;22,90;Plaza & Janes;Novela negra;Castellano;376;Tapa blanda;03/04/2025;2025;https://imagessl7.casadellibro.com/a/l/s7/77/9788401037177.webp;56
+78;nn78;LA LISTA DE LOS SIETE;24,95;Impedimenta;Novela negra;Castellano;496;Tapa blanda;02/06/2025;2025;https://imagessl8.casadellibro.com/a/l/s7/78/9791387641078.webp;57
+79;nn79;UNA ANCIANA ENCANTADORA... Y LETAL (SERIE MISTERIOS DE UNA ANCIAN A ENCANTADORA 1) (COZY MISTERY);10,95;Editorial Alma;Novela negra;Castellano;112;Tapa blanda;11/06/2025;2025;https://imagessl4.casadellibro.com/a/l/s7/04/9788410206304.webp;58
+80;nn80;CUANDO LA TORMENTA PASE;22,90;Editorial Planeta;Novela negra;Castellano;480;Tapa dura;19/06/2024;2024;https://imagessl9.casadellibro.com/a/l/s7/49/9788408290049.webp;59
+81;nn81;EL ESPLENDOR;21,90;Editorial Planeta;Novela negra;Castellano;416;Tapa blanda;29/01/2025;2025;https://imagessl1.casadellibro.com/a/l/s7/21/9788408297321.webp;60
+82;nn82;LOS HIJOS DEL JUSTO;21,95;Almuzara;Novela negra;Castellano;336;Tapa blanda;10/06/2025;2025;https://imagessl7.casadellibro.com/a/l/s7/97/9788410527997.webp;61
+83;nn83;ANTES DE DICIEMBRE;18,95;Editorial Alma;Novela negra;Castellano;432;Tapa blanda;11/06/2025;2025;https://imagessl4.casadellibro.com/a/l/s7/94/9788410206694.webp;62
+84;nn84;A LA VISTA DE TODOS (SERIE KAREN BLECKER / BRIGADA CANO 4);21,95;Siruela;Novela negra;Castellano;432;Tapa blanda;14/05/2025;2025;https://imagessl1.casadellibro.com/a/l/s7/91/9788410415591.webp;63
+85;nn85;ASESINATOS EN LA DELICIOSA TETERÍA DE LA SEÑORA WONG;20,00;Duomo Ediciones;Novela negra;Castellano;384;Tapa blanda;26/05/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/83/9788419834683.webp;64
+86;nn86;NO DORMIRÀS (ED. CAT);21,90;Rosa Dels Vents;Novela negra;Catalán;368;Tapa blanda;05/09/2024;2024;https://imagessl6.casadellibro.com/a/l/s7/66/9788419756466.webp;65
+87;nn87;EL BUEN PADRE (SERIE INDIRA RAMOS 1);20,90;Reservoir Books;Novela negra;Castellano;416;Tapa blanda;14/01/2021;2021;https://imagessl0.casadellibro.com/a/l/s7/90/9788417910990.webp;10
+88;nn88;CONCLAVE;19,90;Grijalbo;Novela negra;Castellano;336;Tapa blanda;16/02/2017;2017;https://imagessl4.casadellibro.com/a/l/s7/54/9788425354854.webp;66
+89;nn89;EL MISTERIO DE LA MUJER TATUADA;23,00;Salamandra;Novela negra;Castellano;400;Tapa blanda;13/03/2025;2025;https://imagessl1.casadellibro.com/a/l/s7/41/9788419851741.webp;67
+90;nn90;EL REBAÑO;21,90;Suma;Novela negra;Castellano;368;Tapa blanda;20/03/2025;2025;https://imagessl9.casadellibro.com/a/l/s7/39/9788410257139.webp;68
+91;nn91;EL CARTEL VASCO;24,85;Bao Bilbao Ediciones S.L.;Novela negra;Castellano;336;Tapa dura;24/04/2025;2025;https://imagessl1.casadellibro.com/a/l/s7/11/9788409702411.webp;69
+92;nn92;CITA CON LA MUERTE;23,90;Roca Editorial;Novela negra;Castellano;448;Tapa dura;05/06/2025;2025;https://imagessl4.casadellibro.com/a/l/s7/44/9788410274044.webp;70
+93;nn93;EL CASO ALASKA SANDERS;23,90;Alfaguara;Novela negra;Castellano;592;Tapa blanda;23/06/2022;2022;https://imagessl7.casadellibro.com/a/l/s7/27/9788420462127.webp;3
+94;nn94;EL ENIGMA DE LA HABITACIÓN 622;23,90;Alfaguara;Novela negra;Castellano;624;Tapa blanda;03/06/2020;2020;https://imagessl9.casadellibro.com/a/l/s7/89/9788420439389.webp;3
+95;nn95;EL ASESINATO DE SOCRATES (FINALISTA PREMIO PLANETA 2016);21,90;Editorial Planeta;Novela negra;Castellano;768;Tapa dura;03/11/2016;2016;https://imagessl3.casadellibro.com/a/l/s7/83/9788408163183.webp;6
+96;nn96;TODO VUELVE (SERIE TODO ARDE 2);23,90;B;Novela negra;Castellano;608;Tapa dura;24/10/2023;2023;https://imagessl0.casadellibro.com/a/l/s7/80/9788466675680.webp;29
+97;nn97;LOS ESCORPIONES;23,90;Lumen;Novela negra;Castellano;816;Tapa blanda;22/02/2024;2024;https://imagessl4.casadellibro.com/a/l/s7/84/9788426418784.webp;71
+98;nn98;INDIRA RAMOS (EDICIÓN ÓMNIBUS);34,90;Reservoir Books;Novela negra;Castellano;992;Tapa blanda;30/01/2025;2025;https://imagessl6.casadellibro.com/a/l/s7/76/9788410352476.webp;10
+99;nn99;LUCIA;21,00;Salamandra;Novela negra;Castellano;416;Tapa blanda;04/05/2023;2023;https://imagessl5.casadellibro.com/a/l/s7/85/9788418681585.webp;36
+100;nn100;VERITY. LA SOMBRA DE UN ENGAÑO;20,90;Editorial Planeta;Novela negra;Castellano;416;Tapa dura;08/03/2023;2023;https://imagessl5.casadellibro.com/a/l/s7/55/9788408269755.webp;72
+101;ne1;HAUNTING ADELINE: NUNCA TE DEJARÉ (DUETO DEL GATO Y EL RATÓN 1);19,95;Montena;Novela erótica;Castellano;592;Tapa blanda;23/02/2023;2023;https://imagessl0.casadellibro.com/a/l/s7/90/9788419421890.webp;73
+102;ne2;LA TENTACIÓN MÁS OSCURA;18,95;Crossbooks;Novela erótica;Castellano;576;Tapa blanda;28/05/2025;2025;https://imagessl0.casadellibro.com/a/l/s7/40/9788408303640.webp;74
+103;ne3;GOD OF MALICE;19,95;Montena;Novela erótica;Castellano;528;Tapa blanda;04/04/2024;2024;https://imagessl5.casadellibro.com/a/l/s7/05/9788410050105.webp;75
+105;ne5;HAUNTING ADELINE: TE ENCONTRARÉ (DUETO DEL GATO Y EL RATÓN 2);21,95;Montena;Novela erótica;Castellano;672;Tapa blanda;14/09/2023;2023;https://imagessl2.casadellibro.com/a/l/s7/12/9788418483912.webp;73
+106;ne6;GOD OF WRATH (LEGADO DE DIOSES 3);19,95;Montena;Novela erótica;Castellano;528;Tapa blanda;27/02/2025;2025;https://imagessl1.casadellibro.com/a/l/s7/31/9788410298231.webp;75
+107;ne7;GOD OF PAIN (LEGADO DE DIOSES 2);19,95;Montena;Novela erótica;Castellano;488;Tapa blanda;23/01/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/63/9788410395763.webp;75
+108;ne8;LASCIVIA (PECADOS PLACENTEROS 1);18,95;Montena;Novela erótica;Castellano;432;Tapa blanda;28/04/2022;2022;https://imagessl0.casadellibro.com/a/l/s7/10/9788419085610.webp;77
+109;ne9;LASCIVIA (PECADOS PLACENTEROS 2);18,95;Montena;Novela erótica;Castellano;448;Tapa blanda;19/05/2022;2022;https://imagessl6.casadellibro.com/a/l/s7/66/9788418798566.webp;77
+110;ne10;LUJURIA LIBRO 2 (PECADOS PLACENTEROS 2);25,95;Montena;Novela erótica;Castellano;1120;Tapa blanda;05/12/2023;2023;https://imagessl2.casadellibro.com/a/l/s7/52/9788419169952.webp;77
+111;ne11;LUJURIA LIBRO 1 (PECADOS PLACENTEROS 2);19,95;Montena;Novela erótica;Castellano;656;Tapa blanda;23/03/2023;2023;https://imagessl8.casadellibro.com/a/l/s7/38/9788419169938.webp;77
+112;ne12;PADRE;18,95;Vr Europa;Novela erótica;Castellano;312;Tapa blanda;01/07/2024;2024;https://imagessl4.casadellibro.com/a/l/s7/84/9788419873484.webp;78
+113;ne13;SORPRENDEME;14,90;Esencia;Novela erótica;Castellano;432;Tapa blanda;07/11/2013;2013;https://imagessl7.casadellibro.com/a/l/s7/27/9788408120827.webp;79
+114;ne14;EL EMPERADOR (DARK VERSE 3);20,90;B;Novela erótica;Castellano;352;Tapa blanda;10/04/2025;2025;https://imagessl4.casadellibro.com/a/l/s7/44/9788466680844.webp;80
+115;ne15;PIDEME LO QUE QUIERAS O DEJAME;14,90;Esencia;Novela erótica;Castellano;416;Tapa blanda;02/07/2013;2013;https://imagessl2.casadellibro.com/a/l/s7/82/9788408118282.webp;79
+116;ne16;PIDEME LO QUE QUIERAS AHORA Y SIEMPRE;14,90;Esencia;Novela erótica;Castellano;432;Tapa blanda;26/03/2013;2013;https://imagessl3.casadellibro.com/a/l/s7/73/9788408105473.webp;79
+117;ne17;PECADOR;19,95;Vr Europa;Novela erótica;Castellano;408;Tapa blanda;20/01/2025;2025;https://imagessl2.casadellibro.com/a/l/s7/42/9788419873842.webp;78
+118;ne18;PÍDEME LO QUE QUIERAS Y YO TE LO DARE;15,90;Esencia;Novela erótica;Castellano;720;Tapa blanda;05/11/2015;2015;https://imagessl5.casadellibro.com/a/l/s7/65/9788408147565.webp;79
+119;ne19;ZORRAS;20,90;B;Novela erótica;Castellano;288;Tapa blanda;02/07/2020;2020;https://imagessl3.casadellibro.com/a/l/s7/93/9788466667593.webp;81
+120;ne20;PIDEME LO QUE QUIERAS;14,90;Esencia;Novela erótica;Castellano;464;Tapa blanda;08/11/2012;2012;https://imagessl3.casadellibro.com/a/l/s7/13/9788408034513.webp;79
+121;ne21;MAS OSCURO: CINCUENTA SOMBRAS MAS OSCURAS CONTADA POR CHRISTIAN;22,90;Grijalbo;Novela erótica;Castellano;640;Tapa blanda;05/12/2017;2017;https://imagessl3.casadellibro.com/a/l/s7/23/9788425356223.webp;82
+122;ne22;PASA LA NOCHE CONMIGO;15,90;Esencia;Novela erótica;Castellano;544;Tapa blanda;08/11/2016;2016;https://imagessl8.casadellibro.com/a/l/s7/28/9788408162728.webp;79
+123;ne23;PESTE, ALCOHOL Y ROCK N ROLL;22,00;Edicion Personal;Novela erótica;Castellano;440;Tapa blanda con solapas;23/11/2021;2021;https://imagessl5.casadellibro.com/a/l/s7/25/9788499468525.webp;83
+124;ne24;"LIBERADO (""CINCUENTA SOMBRAS"" CONTADA POR CHRISTIAN GREY 3)";22,90;Grijalbo;Novela erótica;Castellano;720;Tapa blanda;04/06/2021;2021;https://imagessl1.casadellibro.com/a/l/s7/31/9788425361531.webp;82
+125;ne25;ADIVINA QUIEN SOY ESTA NOCHE;15,90;Esencia;Novela erótica;Castellano;496;Tapa blanda;03/06/2014;2014;https://imagessl7.casadellibro.com/a/l/s7/77/9788408130277.webp;79
+126;ne26;ALGUIEN QUE NO SOY (MI ELECCIÓN 1);21,90;Suma;Novela erótica;Castellano;424;Tapa blanda;22/01/2015;2015;https://imagessl7.casadellibro.com/a/l/s7/07/9788483657607.webp;84
+127;ne27;ADIVINA QUIEN SOY;15,90;Esencia;Novela erótica;Castellano;448;Tapa blanda;25/03/2014;2014;https://imagessl2.casadellibro.com/a/l/s7/12/9788408125112.webp;79
+128;ne28;GUN MOLL;11,95;Reino de Cordelia S.L.;Novela erótica;Castellano;56;Tapa dura;08/07/2025;2025;https://imagessl6.casadellibro.com/a/l/s7/96/9791387599096.webp;85
+129;ne29;ICE PLANET BARBARIANS;16,90;Esencia;Novela erótica;Castellano;312;Tapa blanda;30/08/2023;2023;https://imagessl4.casadellibro.com/a/l/s7/94/9788408277194.webp;86
+130;ne30;ALMAS;20,90;B;Novela erótica;Castellano;352;Tapa blanda;04/11/2021;2021;https://imagessl4.casadellibro.com/a/l/s7/24/9788466669924.webp;81
+131;ne31;YO SOY ERIC ZIMMERMAN;15,90;Esencia;Novela erótica;Castellano;544;Tapa blanda;07/11/2017;2017;https://imagessl0.casadellibro.com/a/l/s7/00/9788408177500.webp;79
+132;ne32;LAS EDADES DE LULU (3ª ED.);15,00;Tusquets Editores S.A.;Novela erótica;Castellano;288;Tapa blanda;01/03/1989;1989;https://imagessl5.casadellibro.com/a/l/s7/45/9788472233645.webp;87
+133;ne33;ÉXTASIS;20,90;B;Novela erótica;Castellano;408;Tapa blanda;01/06/2023;2023;https://imagessl3.casadellibro.com/a/l/s7/63/9788466672863.webp;81
+134;ne34;MANHATTAN CRAZY LOVE;12,90;Esencia;Novela erótica;Castellano;352;Tapa blanda;07/09/2017;2017;https://imagessl5.casadellibro.com/a/l/s7/85/9788408175285.webp;88
+135;ne35;HISTORIA DE O (3ª ED.);14,00;Tusquets Editores S.A.;Novela erótica;Castellano;208;Tapa blanda;01/09/1983;1983;https://imagessl9.casadellibro.com/a/l/s7/79/9788472233379.webp;89
+136;ne36;LAS EDADES DE LULU;16,00;Tusquets Editores S.A.;Novela erótica;Castellano;288;Tapa blanda;01/09/2004;2004;https://imagessl4.casadellibro.com/a/l/s7/24/9788483102824.webp;87
+137;ne37;44 CAPÍTULOS SOBRE 4 HOMBRES;19,50;Espasa;Novela erótica;Castellano;368;Tapa blanda;27/01/2021;2021;https://imagessl6.casadellibro.com/a/l/s7/76/9788467061376.webp;90
+138;ne38;"365 DIAS MAS (""TRILOGÍA 365 DÍAS"" 3)";21,90;Grijalbo;Novela erótica;Castellano;432;Tapa blanda;10/06/2021;2021;https://imagessl6.casadellibro.com/a/l/s7/26/9788425360626.webp;91
+139;ne39;CUERPOS;20,90;B;Novela erótica;Castellano;352;Tapa blanda;07/10/2021;2021;https://imagessl0.casadellibro.com/a/l/s7/00/9788466669900.webp;81
+140;ne40;LAS ONCE MIL VERGAS;12,00;Laertes Editorial, S.L.;Novela erótica;Castellano;156;Tapa blanda;09/03/2021;2021;https://imagessl3.casadellibro.com/a/l/s7/93/9788418292293.webp;92
+141;ne41;ETERNA TENTACION (TRILOGIA TENTACION 1);18,90;Grijalbo;Novela erótica;Castellano;384;Tapa blanda;12/05/2022;2022;https://imagessl4.casadellibro.com/a/l/s7/54/9788425360954.webp;93
+142;ne42;SEXE FORA DE NORMA (PRESSECS);18,00;Rayo Verde Editorial, S.L.;Novela erótica;Catalán;208;Tapa blanda;07/03/2022;2022;https://imagessl5.casadellibro.com/a/l/s7/25/9788417925925.webp;94
+143;ne43;LA CASA DE LOS BUDAS DICHOSOS;14,00;Tusquets Editores S.A.;Novela erótica;Castellano;168;Tapa blanda;01/05/2000;2000;https://imagessl7.casadellibro.com/a/l/s7/77/9788483106877.webp;95
+144;ne44;(H)AMOR 5: HUMEDO;14,96;Continta Me Tienes (Errementari S.l.);Novela erótica;Castellano;208;Tapa blanda;01/10/2020;2020;https://imagessl7.casadellibro.com/a/l/s7/97/9788412087697.webp;94
+145;ne45;FANNY HILL: MEMORIAS DE UNA MUJER GALANTE;17,00;Ediciones Akal;Novela erótica;Castellano;288;Tapa blanda;25/09/2017;2017;https://imagessl0.casadellibro.com/a/l/s7/40/9788446044840.webp;96
+146;ne46;ME GUSTAN SUS CUERNOS;10,00;Tusquets Editores S.A.;Novela erótica;Castellano;160;Tapa blanda;01/04/1995;1995;https://imagessl7.casadellibro.com/a/l/s7/17/9788472238817.webp;97
+147;ne47;UNA CASA EN SANTORINI;18,90;Vergara;Novela erótica;Castellano;320;Tapa blanda;10/09/2020;2020;https://imagessl3.casadellibro.com/a/l/s7/03/9788418045103.webp;98
+148;ne48;PERDIDA EN TI (ERES MI ADICCION II);15,00;Suma;Novela erótica;Castellano;560;Tapa blanda;15/10/2014;2014;https://imagessl7.casadellibro.com/a/l/s7/77/9788483657577.webp;99
+149;ne49;"TRILOGÍA AVALON (INCLUYE: DESTINADA A GOZAR; DESTINADA A SENTIR; DESTINADA A VOLAR)";24,90;La Esfera de los Libros, S.L.;Novela erótica;Castellano;3;Tapa blanda;15/10/2013;2013;https://imagessl0.casadellibro.com/a/l/s7/90/9788499709390.webp;100
+150;ne50;ALGUIEN COMO YO: MI ELECCION 3;21,90;Suma;Novela erótica;Castellano;416;Tapa blanda;12/03/2015;2015;https://imagessl5.casadellibro.com/a/l/s7/45/9788483657645.webp;84
+151;ne51;SEXE FORA DE NORMA (GELATS);19,90;Rayo Verde Editorial, S.L.;Novela erótica;Catalán;192;Tapa blanda;13/03/2023;2023;https://imagessl5.casadellibro.com/a/l/s7/25/9788419206725.webp;94
+152;ne52;SEXO FORA DE NORMA (HELADOS);19,90;Rayo Verde Editorial, S.L.;Novela erótica;Castellano;192;Tapa blanda;13/03/2023;2023;https://imagessl8.casadellibro.com/a/l/s7/18/9788419206718.webp;94
+153;ne53;EDICION ESPECIAL DECIMO ANIVERSARIO PIDEME LO QUE QUIERAS;19,90;Esencia;Novela erótica;Castellano;464;Tapa dura;09/11/2022;2022;https://imagessl6.casadellibro.com/a/l/s7/86/9788408264286.webp;79
+154;ne54;LA LISTA;5,95;Alianza Editorial;Novela erótica;Castellano;480;Tapa blanda bolsillo;05/06/2014;2014;https://imagessl7.casadellibro.com/a/l/s7/97/9788420688497.webp;101
+155;ne55;MANHATTAN EXCITING LOVE;12,90;Esencia;Novela erótica;Castellano;352;Tapa blanda;09/01/2018;2018;https://imagessl8.casadellibro.com/a/l/s7/38/9788408179238.webp;88
+157;ne57;HISTORIA DEL OJO;12,00;Tusquets Editores S.A.;Novela erótica;Castellano;152;Tapa blanda;01/12/1978;1978;https://imagessl2.casadellibro.com/a/l/s7/02/9788472233102.webp;103
+158;ne58;LO QUE NO SABIA DE MI;18,90;B;Novela erótica;Castellano;360;Tapa blanda;28/06/2017;2017;https://imagessl5.casadellibro.com/a/l/s7/05/9788466661805.webp;98
+159;ne59;EL AMA: MEMORIAS DE UNA DOMINADORA (2ª ED.);15,00;Tusquets Editores S.A.;Novela erótica;Castellano;224;Tapa blanda;01/07/1996;1996;https://imagessl2.casadellibro.com/a/l/s7/72/9788472237872.webp;104
+160;ne60;MANHATTAN SEXY LOVE;12,90;Esencia;Novela erótica;Castellano;480;Tapa blanda;04/09/2018;2018;https://imagessl3.casadellibro.com/a/l/s7/73/9788408193173.webp;88
+161;ne61;FANNY HILL: MEMORIAS DE UNA MUJER GALANTE;17,00;Ediciones Akal;Novela erótica;Castellano;288;Tapa blanda;25/09/2017;2017;https://imagessl0.casadellibro.com/a/l/s7/40/9788446044840.webp;96
+162;ne62;ME GUSTAN SUS CUERNOS;10,00;Tusquets Editores S.A.;Novela erótica;Castellano;160;Tapa blanda;01/04/1995;1995;https://imagessl7.casadellibro.com/a/l/s7/17/9788472238817.webp;97
+163;ne63;UNA CASA EN SANTORINI;18,90;Vergara;Novela erótica;Castellano;320;Tapa blanda;10/09/2020;2020;https://imagessl3.casadellibro.com/a/l/s7/03/9788418045103.webp;98
+164;ne64;GREY;22,90;Grijalbo;Novela erótica;Castellano;648;Tapa blanda;16/07/2015;2015;https://imagessl5.casadellibro.com/a/l/s7/15/9788425393815.webp;82
+165;ne65;PERDIDA EN TI (ERES MI ADICCION II);15,00;Suma;Novela erótica;Castellano;560;Tapa blanda;15/10/2014;2014;https://imagessl7.casadellibro.com/a/l/s7/77/9788483657577.webp;99
+166;ne66;EL LUMINOSO REGALO;18,90;Alfaguara;Novela erótica;Castellano;400;Tapa blanda;05/03/2013;2013;https://imagessl7.casadellibro.com/a/l/s7/57/9788420414157.webp;105
+167;ne67;ALGUIEN COMO TU (MI ELECCIÓN 2);21,90;Suma;Novela erótica;Castellano;440;Tapa blanda;26/02/2015;2015;https://imagessl1.casadellibro.com/a/l/s7/21/9788483657621.webp;84
+168;ne68;EMMANUELLE 1. LA LECCION DEL HOMBRE;12,00;Tusquets Editores S.A.;Novela erótica;Castellano;264;Tapa blanda;10/09/2013;2013;https://imagessl9.casadellibro.com/a/l/s7/29/9788483837429.webp;106
+169;ne69;ALGUIEN COMO YO: MI ELECCION 3;21,90;Suma;Novela erótica;Castellano;416;Tapa blanda;12/03/2015;2015;https://imagessl5.casadellibro.com/a/l/s7/45/9788483657645.webp;84
+173;ne73;MORIR ES COMO UN CUENTO;19,97;Vitruvio;Novela erótica;Castellano;342;Geltex;01/10/2019;2019;https://imagessl9.casadellibro.com/a/l/s7/89/9788412104189.webp;108
+179;ne79;CONTENTAR AL DEMONIO;18,27;Nova Casa Editorial;Novela erótica;Castellano;720;Tapa blanda;01/06/2020;2020;https://imagessl0.casadellibro.com/a/l/s7/90/9788417589790.webp;109
+180;ne80;DÉJATE LLEVAR;190,00;Circulo Rojo;Novela erótica;Castellano;486;Tapa blanda;23/04/2020;2020;https://imagessl6.casadellibro.com/a/l/s7/86/9788413632186.webp;110
+184;ne84;SEXPEDIDA DE SOLTERA;19,00;La Esfera de los Libros;Novela erótica;Castellano;304;Tapa blanda;07/06/2011;2011;https://imagessl3.casadellibro.com/a/l/s7/63/9788499700663.webp;111
+188;ne88;23 PENUMBRAS DEL DESEO;5,99;Robinbook;Novela erótica;Castellano;198;Tapa blanda;08/11/2012;2012;https://imagessl5.casadellibro.com/a/l/s7/65/9788499172965.webp;94
+189;ne89;LAS CANCIONES DE BILITIS / MANUAL DE CIVISMO;3,67;Brontes;Novela erótica;Castellano;124;Tapa blanda;13/08/2013;2013;https://imagessl1.casadellibro.com/a/l/s7/81/9788415605881.webp;113
+190;ne90;80 MELODIAS PASION AMARILLO;7,10;Maeva;Novela erótica;Castellano;336;Tapa blanda;31/01/2013;2013;https://imagessl7.casadellibro.com/a/l/s7/07/9788415532507.webp;114
+191;ne91;NI JUNIO EN PARIS;15,00;Ediciones Akal;Novela erótica;Castellano;320;Tapa blanda;11/03/2013;2013;https://imagessl4.casadellibro.com/a/l/s7/14/9788446031314.webp;115
+192;ne92;BETSABELINA ANANSE DOCORDO;190,00;Diego Pun Ediciones;Novela erótica;Castellano;34;Tapa blanda;01/08/2012;2012;https://imagessl8.casadellibro.com/a/l/s7/08/9788493936808.webp;116
+193;ne93;OCHENTA MELODIAS DE PASION EN ROJO;7,00;Maeva;Novela erótica;Castellano;336;Tapa blanda;10/04/2013;2013;https://imagessl1.casadellibro.com/a/l/s7/21/9788415532521.webp;114
+194;ne94;L AMOR TAMBE MATA;13,90;Viena;Novela erótica;Catalán;120;Tapa blanda;19/02/2015;2015;https://imagessl1.casadellibro.com/a/l/s7/71/9788483308271.webp;117
+196;ne96;SEXISTENCIALISMO;3,72;Sesudos;Novela erótica;Castellano;352;Tapa blanda;23/01/2015;2015;https://imagessl5.casadellibro.com/a/l/s7/05/9788494285905.webp;118
+197;ne97;INCONDICIONAL RICK;190,00;Eride Ediciones;Novela erótica;Castellano;716;Tapa blanda;15/01/2015;2014;https://imagessl6.casadellibro.com/a/l/s7/06/9788416085606.webp;119
+199;ne99;MI QUERIDO ZAR;24,95;Grijalbo;Novela erótica;Castellano;512;Tapa blanda;04/09/2014;2014;https://imagessl5.casadellibro.com/a/l/s7/15/9788425352515.webp;120
+201;nr1;NUESTRO LARGO ADIÓS;20,90;Esencia;Novela romántica;Castellano;488;Tapa blanda;02/07/2025;2025;https://imagessl5.casadellibro.com/a/l/s7/35/9788408305835.webp;79
+202;nr2;BUSCANDO ESPOSA (BRIDGERTON 8) (EDICIÓN ESPECIAL);21,00;Titania;Novela romántica;Castellano;384;Tapa dura;08/07/2025;2025;https://imagessl9.casadellibro.com/a/l/s7/59/9788419131959.webp;121
+203;nr3;PECADOS 4. REY DE LA DESIDIA. EDICIÓN ESPECIAL;23,95;Crossbooks;Novela romántica;Castellano;544;Tapa dura;25/06/2025;2025;https://imagessl9.casadellibro.com/a/l/s7/29/9788408304029.webp;122
+204;nr4;RECKLESS: SIN MIEDO (EDICIÓN ESPECIAL LIMITADA);23,95;Contraluz Editorial;Novela romántica;Castellano;456;Tapa dura;11/09/2025;2025;https://imagessl1.casadellibro.com/a/l/s7/71/9788419822871.webp;123
+205;nr5;CUANDO DESPIERTEN LAS FLORES;19,95;Crossbooks;Novela romántica;Castellano;416;Tapa blanda;28/05/2025;2025;https://imagessl5.casadellibro.com/a/l/s7/55/9788408302155.webp;124
+206;nr6;SI ES PERFECTO, NO ES AMOR;21,90;Grijalbo;Novela romántica;Castellano;480;Tapa blanda;12/06/2025;2025;https://imagessl1.casadellibro.com/a/l/s7/41/9788425370441.webp;125
+207;nr7;ANATEMA (EL BOSQUE VORAZ 1);24,90;Plaza & Janes;Novela romántica;Castellano;680;Tapa dura;10/09/2025;2025;https://imagessl0.casadellibro.com/a/l/s7/80/9788401038280.webp;126
+208;nr8;EL DUQUE Y YO (BRIDGERTON 1) (ED. ESPECIAL);19,95;Titania;Novela romántica;Castellano;352;Tapa dura;04/06/2024;2024;https://imagessl3.casadellibro.com/a/l/s7/83/9788419131683.webp;121
+209;nr9;EL IRRESISTIBLE ENCANTO DE TU PEOR ENEMIGO;23,90;Plaza & Janes;Novela romántica;Castellano;408;Tapa dura;10/07/2025;2025;https://imagessl6.casadellibro.com/a/l/s7/46/9788401036446.webp;127
+210;nr10;POR UN BESO (BRIDGERTON 7) (EDICIÓN ESPECIAL);21,00;Titania;Novela romántica;Castellano;352;Tapa dura;06/05/2025;2025;https://imagessl2.casadellibro.com/a/l/s7/42/9788419131942.webp;121
+211;nr11;PECADOS 4. REY DE LA DESIDIA;19,95;Crossbooks;Novela romántica;Castellano;544;Tapa blanda;25/06/2025;2025;https://imagessl2.casadellibro.com/a/l/s7/92/9788408303992.webp;122
+212;nr12;UN AMOR DE VERANO COMPLICADO;19,95;Contraluz Editorial;Novela romántica;Castellano;512;Tapa blanda;10/07/2025;2025;https://imagessl2.casadellibro.com/a/l/s7/32/9788419822932.webp;128
+213;nr13;PACK CDL CREDENCE + POST-ITS;19,95;Planeta;Novela romántica;Castellano;576;Tapa blanda;11/06/2025;2025;https://imagessl4.casadellibro.com/a/l/s7/54/8432715183754.webp;129
+214;nr14;CREDENCE;19,95;Crossbooks;Novela romántica;Castellano;576;Tapa blanda;11/06/2025;2025;https://imagessl6.casadellibro.com/a/l/s7/66/9788408304166.webp;129
+215;nr15;TE ENCONTRÉ EN BISÁU;16,90;Esencia;Novela romántica;Castellano;352;Tapa blanda;18/06/2025;2025;https://imagessl9.casadellibro.com/a/l/s7/49/9788408305149.webp;130
+216;nr16;LA TEORÍA DEL AMOR (EDICIÓN ESPECIAL);23,95;Contraluz Editorial;Novela romántica;Castellano;480;Tapa blanda;28/08/2025;2025;https://imagessl0.casadellibro.com/a/l/s7/70/9788419822970.webp;128
+217;nr17;BOSS;22,95;Montena;Novela romántica;Castellano;624;Tapa blanda;02/10/2025;2025;https://imagessl7.casadellibro.com/a/l/s7/07/9788419848307.webp;77
+218;nr18;PECADOS 5. REY DE LA ENVIDIA. EDICIÓN ESPECIAL;23,95;Crossbooks;Novela romántica;Castellano;648;Tapa dura;08/10/2025;2025;https://imagessl5.casadellibro.com/a/l/s7/45/9788408308645.webp;122
+220;nr20;CAÍDA LIBRE;19,50;Contraluz Editorial;Novela romántica;Castellano;628;Tapa blanda;13/03/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/43/9788419822543.webp;128
+221;nr21;EL VIZCONDE QUE ME AMÓ (ED. ESPECIAL);21,00;Titania;Novela romántica;Castellano;384;Tapa dura;17/09/2024;2024;https://imagessl9.casadellibro.com/a/l/s7/29/9788419131829.webp;121
+222;nr22;EL VENCEDOR (DARK VERSE 4);20,90;B;Novela romántica;Castellano;304;Tapa blanda;17/07/2025;2025;https://imagessl0.casadellibro.com/a/l/s7/40/9788466681940.webp;80
+223;nr23;DONDE NO PUEDAS ENCONTRARME;16,90;Esencia;Novela romántica;Castellano;456;Tapa blanda;08/05/2024;2024;https://imagessl6.casadellibro.com/a/l/s7/16/9788408287216.webp;132
+224;nr24;A OSCURAS (ADENTRATE EN LA OSCURIDAD 1);21,90;B;Novela romántica;Castellano;480;Tapa blanda;20/03/2025;2025;https://imagessl6.casadellibro.com/a/l/s7/16/9788466680516.webp;133
+225;nr25;ENIGMA;23,90;B;Novela romántica;Castellano;496;Tapa dura;18/09/2025;2025;https://imagessl6.casadellibro.com/a/l/s7/26/9788466681926.webp;80
+226;nr26;PECADOS 2. REY DE LA SOBERBIA. EDICIÓN ESPECIAL;23,95;Crossbooks;Novela romántica;Castellano;464;Tapa dura;02/10/2024;2024;https://imagessl1.casadellibro.com/a/l/s7/61/9788408292661.webp;122
+227;nr27;LA LOCURA MÁS ARDIENTE;18,95;Crossbooks;Novela romántica;Castellano;416;Tapa blanda;08/05/2024;2024;https://imagessl0.casadellibro.com/a/l/s7/20/9788408287520.webp;74
+228;nr28;DE RODILLAS (ADENTRATE EN LA OSCURIDAD 2);21,90;B;Novela romántica;Castellano;416;Tapa blanda;04/09/2025;2025;https://imagessl7.casadellibro.com/a/l/s7/77/9788466681377.webp;133
+229;nr29;ZARCO (CLAN Z. 1);15,90;Magazzini Salani;Novela romántica;Castellano;320;Tapa dura;02/06/2025;2025;https://imagessl7.casadellibro.com/a/l/s7/77/9791259575777.webp;134
+230;nr30;TE DOY MI CORAZÓN (BRIDGERTON 3) (ED. ESPECIAL);21,00;Titania;Novela romántica;Castellano;384;Tapa dura;12/11/2024;2024;https://imagessl2.casadellibro.com/a/l/s7/12/9788419131812.webp;121
+231;nr31;EL REY DE NUNCA JAMÁS;15,90;Siren Books;Novela romántica;Castellano;198;Tapa blanda;09/06/2025;2025;https://imagessl7.casadellibro.com/a/l/s7/37/9791399027037.webp;135
+232;nr32;MAÑANA SERÁ MÁS BONITO;16,90;Esencia;Novela romántica;Castellano;384;Tapa blanda;04/06/2025;2025;https://imagessl1.casadellibro.com/a/l/s7/01/9788408305101.webp;136
+233;nr33;SEDUCIENDO A MR. BRIDGERTON (BRIDGERTON 4) (ED.ESPECIAL);21,00;Titania;Novela romántica;Castellano;384;Tapa dura;19/11/2024;2024;https://imagessl1.casadellibro.com/a/l/s7/11/9788419131911.webp;121
+234;nr34;ALCHEMISED;25,95;Montena;Novela romántica;Castellano;1024;Tapa dura;30/09/2025;2025;https://imagessl5.casadellibro.com/a/l/s7/75/9788410050075.webp;137
+235;nr35;EL ARTE DE SER NOSOTROS;18,90;Editorial Planeta;Novela romántica;Castellano;528;Tapa dura;08/02/2023;2023;https://imagessl8.casadellibro.com/a/l/s7/28/9788408267928.webp;138
+236;nr36;EL CORAZÓN DE UNA BRIDGERTON (BRIDGERTON 6) (ED. ESPECIAL);21,00;Titania;Novela romántica;Castellano;352;Tapa dura;04/03/2025;2025;https://imagessl5.casadellibro.com/a/l/s7/35/9788419131935.webp;121
+237;nr37;LA EMPERATRIZ;22,95;Crossbooks;Novela romántica;Castellano;392;Tapa dura;30/04/2025;2025;https://imagessl7.casadellibro.com/a/l/s7/67/9788408302667.webp;139
+238;nr38;A SIR PHILLIP, CON AMOR (BRIDGERTON 5) (ED. ESPECIAL);21,00;Titania;Novela romántica;Castellano;320;Tapa dura;21/01/2025;2025;https://imagessl8.casadellibro.com/a/l/s7/28/9788419131928.webp;121
+239;nr39;PECADOS 3. REY DE LA CODICIA. EDICIÓN ESPECIAL;23,95;Crossbooks;Novela romántica;Castellano;364;Tapa dura;05/03/2025;2025;https://imagessl7.casadellibro.com/a/l/s7/07/9788408299707.webp;122
+240;nr40;DEATH;20,90;Siren Books;Novela romántica;Castellano;572;Tapa blanda;16/06/2025;2025;https://imagessl0.casadellibro.com/a/l/s7/20/9791399027020.webp;140
+241;nr41;TRES MAREAS (SERIE BREAKING WAVES 3);23,00;Inlov;Novela romántica;Castellano;432;Tapa blanda;02/07/2025;2025;https://imagessl5.casadellibro.com/a/l/s7/05/9788410399105.webp;141
+242;nr42;FUNERAL EN GREYFRIARS;17,90;La Esfera de los Libros, S.L.;Novela romántica;Castellano;208;Tapa blanda;09/04/2025;2025;https://imagessl8.casadellibro.com/a/l/s7/38/9788410940338.webp;142
+243;nr43;LAS GUERRERAS MAXWELL, 10. UNA HERENCIA SALVAJE;19,00;Esencia;Novela romántica;Castellano;632;Tapa blanda;26/02/2025;2025;https://imagessl1.casadellibro.com/a/l/s7/81/9788408298281.webp;79
+245;nr45;RECKLESS: SIN MIEDO;19,50;Contraluz Editorial;Novela romántica;Castellano;456;Tapa blanda;11/09/2025;2025;https://imagessl7.casadellibro.com/a/l/s7/57/9788419822857.webp;123
+246;nr46;BOUND BY LOVE;17,90;Esencia;Novela romántica;Castellano;568;Tapa blanda;28/05/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/43/9788408303343.webp;88
+247;nr47;SIGUE LLOVIENDO;17,90;Editorial Planeta;Novela romántica;Castellano;208;Tapa dura;03/09/2025;2025;https://imagessl6.casadellibro.com/a/l/s7/76/9788408307976.webp;144
+248;nr48;EL OLVIDO MAS DULCE;18,95;Crossbooks;Novela romántica;Castellano;544;Tapa blanda;21/06/2023;2023;https://imagessl7.casadellibro.com/a/l/s7/47/9788408269847.webp;74
+250;nr50;PECADOS 1. REY DE LA IRA. EDICIÓN ESPECIAL;23,95;Crossbooks;Novela romántica;Castellano;496;Tapa dura;12/06/2024;2024;https://imagessl2.casadellibro.com/a/l/s7/22/9788408289722.webp;122
+251;nr51;LA MAGIA DE LAS CASUALIDADES IMPOSIBLES;19,95;Crossbooks;Novela romántica;Castellano;432;Tapa blanda;16/10/2024;2024;https://imagessl2.casadellibro.com/a/l/s7/52/9788408293552.webp;146
+252;nr52;CROSSED (NUNCA JAMÁS 5);20,95;Montena;Novela romántica;Castellano;432;Tapa blanda;10/07/2025;2025;https://imagessl7.casadellibro.com/a/l/s7/27/9788410396227.webp;147
+253;nr53;PARA SIEMPRE ES MUCHO TIEMPO;20,90;Ediciones Temas de Hoy;Novela romántica;Castellano;256;Tapa blanda;05/03/2025;2025;https://imagessl9.casadellibro.com/a/l/s7/19/9788410293519.webp;148
+254;nr54;HOOKED: UNA HISTORIA DE NUNCA JAMAS.;20,95;Montena;Novela romántica;Castellano;384;Tapa blanda;15/06/2023;2023;https://imagessl8.casadellibro.com/a/l/s7/38/9788419501738.webp;147
+255;nr55;POWERLESS: SIN CONTROL;18,95;Contraluz Editorial;Novela romántica;Castellano;456;Tapa blanda;08/05/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/03/9788419822703.webp;123
+257;nr57;DIOSES DEL JUEGO 1. THE STRIKER;19,95;Crossbooks;Novela romántica;Castellano;656;Tapa blanda;29/01/2025;2025;https://imagessl0.casadellibro.com/a/l/s7/40/9788408297840.webp;122
+258;nr58;FLAWLESS: SIN REGLAS;19,50;Contraluz Editorial;Novela romántica;Castellano;408;Tapa blanda;17/10/2024;2024;https://imagessl1.casadellibro.com/a/l/s7/21/9788419822321.webp;123
+259;nr59;HEARTLESS: SIN LÍMITES;18,50;Contraluz Editorial;Novela romántica;Castellano;432;Tapa blanda;13/02/2025;2025;https://imagessl5.casadellibro.com/a/l/s7/75/9788419822475.webp;123
+260;nr60;NOVIA;19,95;Faeris Editorial;Novela romántica;Castellano;432;Tapa blanda;14/03/2024;2024;https://imagessl6.casadellibro.com/a/l/s7/26/9788419988126.webp;128
+261;nr61;PECADOS 2. REY DE LA SOBERBIA;19,95;Crossbooks;Novela romántica;Castellano;464;Tapa blanda;02/10/2024;2024;https://imagessl6.casadellibro.com/a/l/s7/76/9788408293576.webp;122
+262;nr62;ESPÍRITU SALVAJE;23,00;Titania;Novela romántica;Castellano;416;Tapa dura;08/04/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/23/9788410391123.webp;150
+263;nr63;EL FARO DE LOS AMORES DORMIDOS;17,95;Crossbooks;Novela romántica;Castellano;496;Tapa blanda;06/07/2022;2022;https://imagessl0.casadellibro.com/a/l/s7/30/9788408254430.webp;124
+264;nr64;PECADOS 3. REY DE LA CODICIA;19,95;Crossbooks;Novela romántica;Castellano;364;Tapa blanda;05/03/2025;2025;https://imagessl6.casadellibro.com/a/l/s7/16/9788408299516.webp;122
+265;nr65;UN ERROR A MEDIDA;5,95;Esencia;Novela romántica;Castellano;288;Tapa blanda;18/01/2023;2023;https://imagessl6.casadellibro.com/a/l/s7/26/9788408266426.webp;151
+266;nr66;MARCADO A FUEGO (EL RANCHO WELLS 1);21,90;Grijalbo;Novela romántica;Castellano;352;Tapa blanda;26/06/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/73/9788425370373.webp;152
+267;nr67;SCYTHE & SPARROW;18,50;Contraluz Editorial (Anaya);Novela romántica;Castellano;456;Tapa blanda;02/10/2025;2025;https://imagessl7.casadellibro.com/a/l/s7/87/9788419822987.webp;153
+268;nr68;ROMPER EL HIELO (MAPLE HILLS 1);19,90;B;Novela romántica;Castellano;464;Tapa blanda;28/09/2023;2023;https://imagessl8.casadellibro.com/a/l/s7/78/9788466674478.webp;154
+269;nr69;SALTAN CHISPAS (MAPLE HILLS 2);19,90;B;Novela romántica;Castellano;400;Tapa blanda;04/04/2024;2024;https://imagessl2.casadellibro.com/a/l/s7/22/9788466676922.webp;154
+270;nr70;ESPECIAL THE STRIKER DIOSES JUEGO 1;23,95;Crossbooks;Novela romántica;Castellano;656;Tapa dura;29/01/2025;2025;https://imagessl7.casadellibro.com/a/l/s7/57/9788408297857.webp;122
+271;nr71;LA SOLEDAD DE UN CIELO SIN ESTRELLAS;19,95;Crossbooks;Novela romántica;Castellano;448;Tapa blanda;22/01/2025;2025;https://imagessl4.casadellibro.com/a/l/s7/64/9788408297864.webp;155
+272;nr72;DIOSES ARDIENTES (RADIANT SIN);18,90;Ediciones Martínez Roca;Novela romántica;Castellano;416;Tapa blanda;02/07/2025;2025;https://imagessl8.casadellibro.com/a/l/s7/88/9788427054288.webp;156
+273;nr73;LA CASA NEVILLE. NO QUIERAS NADA VIL;19,90;Esencia;Novela romántica;Castellano;608;Tapa blanda;21/05/2025;2025;https://imagessl6.casadellibro.com/a/l/s7/36/9788408303336.webp;157
+274;nr74;TUS LUCES Y MIS SOMBRAS;22,90;Grijalbo;Novela romántica;Castellano;592;Tapa blanda;26/06/2025;2025;https://imagessl9.casadellibro.com/a/l/s7/89/9788425370489.webp;158
+275;nr75;EL ESPEJO (LA MALDICIÓN DE LAS SIETE NOVIAS 2);22,90;Suma;Novela romántica;Castellano;504;Tapa blanda;24/07/2025;2025;https://imagessl2.casadellibro.com/a/l/s7/32/9788410257832.webp;159
+276;nr76;EN LAS NUBES (MAPLE HILLS 3);19,90;B;Novela romántica;Castellano;464;Tapa blanda;24/10/2024;2024;https://imagessl0.casadellibro.com/a/l/s7/50/9788466679350.webp;154
+277;nr77;POWERLESS: SIN CONTROL (EDICIÓN ESPECIAL LIMITADA);22,75;Contraluz Editorial;Novela romántica;Castellano;456;Tapa blanda;08/05/2025;2025;https://imagessl7.casadellibro.com/a/l/s7/27/9788419822727.webp;123
+278;nr78;UNSTEADY;20,90;Rba Libros;Novela romántica;Castellano;480;Tapa blanda;07/05/2025;2025;https://imagessl8.casadellibro.com/a/l/s7/08/9788411329408.webp;160
+279;nr79;BUTCHER & BLACKBIRD;18,95;Contraluz Editorial;Novela romántica;Castellano;376;Tapa blanda;11/04/2024;2024;https://imagessl8.casadellibro.com/a/l/s7/48/9788419822048.webp;153
+280;nr80;UN MILLÓN DE BESOS PARA TI;18,95;Crossbooks;Novela romántica;Castellano;464;Tapa blanda;13/11/2024;2024;https://imagessl9.casadellibro.com/a/l/s7/69/9788408293569.webp;161
+282;nr82;TWISTED (NUNCA JAMÁS 4);20,95;Montena;Novela romántica;Castellano;432;Tapa blanda;23/01/2025;2025;https://imagessl8.casadellibro.com/a/l/s7/38/9788410050938.webp;147
+283;nr83;LA CASA NEVILLE. LA FORMIDABLE SEÑORITA MANON;18,90;Esencia;Novela romántica;Castellano;632;Tapa blanda;22/05/2024;2024;https://imagessl3.casadellibro.com/a/l/s7/23/9788408287223.webp;157
+284;nr84;MI ALMA DE BRUJA (EDICIÓN ESPECIAL LIMITADA);22,90;Siren Books;Novela romántica;Castellano;504;Tapa blanda;22/09/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/defecto3.webp;162
+285;nr85;MALDITAS MARIPOSAS;5,95;Esencia;Novela romántica;Castellano;432;Tapa blanda;03/05/2023;2023;https://imagessl7.casadellibro.com/a/l/s7/47/9788408271147.webp;163
+286;nr86;PECADOS 1. REY DE LA IRA;19,95;Crossbooks;Novela romántica;Castellano;496;Tapa blanda;12/06/2024;2024;https://imagessl5.casadellibro.com/a/l/s7/25/9788408288725.webp;122
+287;nr87;LA TORMENTA (DARK VERSE 2);19,90;B;Novela romántica;Castellano;336;Tapa blanda;24/10/2024;2024;https://imagessl6.casadellibro.com/a/l/s7/36/9788466679336.webp;80
+288;nr88;CUANDO NO QUEDEN MAS ESTRELLAS QUE CONTAR;17,95;Crossbooks;Novela romántica;Castellano;472;Tapa blanda;25/08/2021;2021;https://imagessl2.casadellibro.com/a/l/s7/72/9788408245872.webp;146
+289;nr89;LA HIPOTESIS DEL AMOR;20,50;Contraluz Editorial;Novela romántica;Castellano;488;Tapa blanda;17/03/2022;2022;https://imagessl2.casadellibro.com/a/l/s7/82/9788418945182.webp;128
+290;nr90;HEREDERA ROBADA (HERENCIA BRUTAL 2);19,95;Montena;Novela romántica;Castellano;336;Tapa blanda;14/05/2025;2025;https://imagessl8.casadellibro.com/a/l/s7/78/9788410395978.webp;164
+291;nr91;LA LUZ MÁS BRILLANTE DEL CIELO;20,90;Rba Libros;Novela romántica;Castellano;456;Tapa blanda;05/02/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/23/9788411329323.webp;165
+293;nr93;LA CASA DE LAS TORTITAS DE FRESA;19,90;Harpercollins;Novela romántica;Castellano;304;Tapa blanda;11/06/2025;2025;https://imagessl0.casadellibro.com/a/l/s7/80/9788419809780.webp;167
+294;nr94;UN LUGAR EN EL DESORDEN;16,90;Grupo Ediciones Kiwi;Novela romántica;Castellano;480;Tapa blanda;21/05/2025;2025;https://imagessl1.casadellibro.com/a/l/s7/91/9788410479791.webp;168
+295;nr95;TIZIANO, LA DECISION DEL CAPO VOL. I;19,90;Entre Libros Editorial;Novela romántica;Castellano;538;Tapa blanda;03/02/2022;2022;https://imagessl4.casadellibro.com/a/l/s7/94/9788418748394.webp;169
+296;nr96;HEARTLESS: SIN LÍMITES (EDICIÓN ESPECIAL LIMITADA);23,95;Contraluz Editorial;Novela romántica;Castellano;432;Tapa blanda;13/02/2025;2025;https://imagessl9.casadellibro.com/a/l/s7/99/9788419822499.webp;123
+298;nr98;HERMOSA RENDICIÓN;24,00;Dejavu Ediciones;Novela romántica;Castellano;448;Tapa blanda;10/10/2024;2024;https://imagessl2.casadellibro.com/a/l/s7/12/9789801842712.webp;171
+299;nr99;PRÍNCIPE BRUTAL (HERENCIA BRUTAL 1);19,95;Montena;Novela romántica;Castellano;320;Tapa blanda;10/04/2025;2025;https://imagessl1.casadellibro.com/a/l/s7/61/9788410395961.webp;164
+300;nr100;SOLO PARA SIEMPRE;21,90;Roca Editorial;Novela romántica;Castellano;400;Tapa blanda;30/04/2025;2025;https://imagessl4.casadellibro.com/a/l/s7/34/9788410442634.webp;172
+301;nh1;LOS TRES MUNDOS (SERIE JULIO CÉSAR 3);25,90;B;Novela histórica;Castellano;992;Tapa dura;21/10/2025;2025;https://imagessl1.casadellibro.com/a/l/s7/01/9788466682701.webp;173
+302;nh2;EN EL AMOR Y EN LA GUERRA (LA CATEDRAL DEL MAR 3);24,90;Grijalbo;Novela histórica;Castellano;768;Tapa dura;18/02/2025;2025;https://imagessl5.casadellibro.com/a/l/s7/75/9788425369575.webp;174
+303;nh3;LA PINTORA DE LA LUZ;23,90;B;Novela histórica;Castellano;576;Tapa dura;27/03/2025;2025;https://imagessl8.casadellibro.com/a/l/s7/78/9788466681278.webp;175
+304;nh4;LA TOFFANA;22,90;Espasa;Novela histórica;Castellano;544;Tapa dura;09/04/2025;2025;https://imagessl6.casadellibro.com/a/l/s7/56/9788467076356.webp;176
+305;nh5;EL ESPAÑOL;24,90;Grijalbo;Novela histórica;Castellano;592;Tapa dura;08/05/2025;2025;https://imagessl8.casadellibro.com/a/l/s7/88/9788425369988.webp;177
+306;nh6;EL CÍRCULO DE LOS DÍAS;24,90;Plaza & Janes;Novela histórica;Castellano;768;Tapa dura;23/09/2025;2025;https://imagessl1.casadellibro.com/a/l/s7/11/9788401036811.webp;178
+307;nh7;PELAYO;22,90;Espasa;Novela histórica;Castellano;696;Tapa dura;07/05/2025;2025;https://imagessl0.casadellibro.com/a/l/s7/90/9788467076790.webp;179
+308;nh8;DUEÑOS DEL MUNDO;24,90;Harpercollins;Novela histórica;Castellano;576;Tapa dura;26/02/2025;2025;https://imagessl8.casadellibro.com/a/l/s7/48/9788410642348.webp;180
+309;nh9;LA DAMA DE LA CARTUJA;22,90;B;Novela histórica;Castellano;512;Tapa dura;23/05/2024;2024;https://imagessl7.casadellibro.com/a/l/s7/67/9788466678667.webp;175
+310;nh10;LOS HEREDEROS DE LA TIERRA;24,90;Grijalbo;Novela histórica;Castellano;896;Tapa dura;31/08/2016;2016;https://imagessl6.casadellibro.com/a/l/s7/36/9788425354236.webp;174
+311;nh11;SCARAMOUCHE (COLECCION ZENDA);21,00;Editora y Distribuidora Hispano Americana, S.A.;Novela histórica;Castellano;512;Tapa blanda;11/06/2025;2025;https://imagessl2.casadellibro.com/a/l/s7/02/9788435055802.webp;181
+312;nh12;LA BIBLIOTECA DE LA NIEBLA;22,90;Editorial Planeta;Novela histórica;Castellano;608;Tapa dura;04/06/2025;2025;https://imagessl8.casadellibro.com/a/l/s7/68/9788408304968.webp;182
+313;nh13;YO, TEMPLARIO;22,90;Istoria;Novela histórica;Castellano;448;Tapa dura;25/06/2025;2025;https://imagessl8.casadellibro.com/a/l/s7/48/9791387714048.webp;183
+314;nh14;INGRATA PATRIA;22,90;Espasa;Novela histórica;Castellano;408;Tapa blanda;04/06/2025;2025;https://imagessl9.casadellibro.com/a/l/s7/79/9788467077179.webp;184
+315;nh15;LA MANO NEGRA;22,90;Istoria;Novela histórica;Castellano;608;Tapa dura;21/05/2025;2025;https://imagessl4.casadellibro.com/a/l/s7/24/9791387714024.webp;185
+316;nh16;GORRIONES Y HALCONES;26,00;Ediciones del Viento, S.L.;Novela histórica;Castellano;744;Tapa blanda;28/10/2024;2024;https://imagessl1.casadellibro.com/a/l/s7/61/9788418227561.webp;186
+317;nh17;EL APRENDIZ DE GAUDÍ;22,90;La Esfera de los Libros, S.L.;Novela histórica;Castellano;344;Tapa blanda;21/05/2025;2025;https://imagessl2.casadellibro.com/a/l/s7/42/9788410940642.webp;187
+318;nh18;EL CANTAR DEL NORTE (PREMIO NARRATIVAS HISTORICAS EDHASA 2025);22,50;Editora y Distribuidora Hispano Americana, S.A.;Novela histórica;Castellano;336;Tapa dura;02/04/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/43/9788435064743.webp;188
+319;nh19;EL ESCALÓN 33;24,90;B;Novela histórica;Castellano;496;Tapa dura;10/04/2025;2025;https://imagessl5.casadellibro.com/a/l/s7/65/9788466681865.webp;189
+320;nh20;(PE) EL TREN DE LOS LOCOS;5,95;Harpercollins;Novela histórica;Castellano;352;Tapa blanda;10/11/2021;2021;https://imagessl8.casadellibro.com/a/l/s7/68/9788491397168.webp;190
+321;nh21;(PE) LA BUENA MUERTE;5,95;Almuzara;Novela histórica;Castellano;320;Tapa blanda;06/05/2016;2016;https://imagessl1.casadellibro.com/a/l/s7/41/9788416392841.webp;191
+322;nh22;GERMÁNICO;21,90;Grijalbo;Novela histórica;Castellano;240;Tapa dura;10/04/2025;2025;https://imagessl1.casadellibro.com/a/l/s7/21/9788425369421.webp;192
+323;nh23;MALDITA ROMA (SERIE JULIO CESAR 2);24,90;B;Novela histórica;Castellano;896;Tapa dura;14/11/2023;2023;https://imagessl4.casadellibro.com/a/l/s7/64/9788466676564.webp;173
+324;nh24;JAQUE A LA REINA;16,90;Harper Bolsillo;Novela histórica;Castellano;320;Tapa blanda;21/05/2025;2025;https://imagessl9.casadellibro.com/a/l/s7/59/9788419802859.webp;180
+325;nh25;TIERRA SIN REY;24,90;B;Novela histórica;Castellano;496;Tapa dura;17/07/2025;2025;https://imagessl4.casadellibro.com/a/l/s7/84/9788466669184.webp;189
+326;nh26;LA BIBLIOTECA DE CÓRDOBA;23,90;B;Novela histórica;Castellano;560;Tapa dura;23/01/2025;2025;https://imagessl0.casadellibro.com/a/l/s7/00/9788466680400.webp;193
+327;nh27;LA DIVA;23,90;Plaza & Janes;Novela histórica;Castellano;568;Tapa dura;03/04/2025;2025;https://imagessl4.casadellibro.com/a/l/s7/84/9788401035784.webp;194
+328;nh28;ROMA SOY YO (SERIE JULIO CESAR 1);24,90;B;Novela histórica;Castellano;752;Tapa dura;05/04/2022;2022;https://imagessl1.casadellibro.com/a/l/s7/81/9788466671781.webp;173
+329;nh29;EL HIJO DEL CONSUL (TRILOGIA AFRICANUS 1);24,90;B;Novela histórica;Castellano;720;Tapa dura;13/09/2018;2018;https://imagessl4.casadellibro.com/a/l/s7/04/9788466664004.webp;173
+330;nh30;INVENCIBLE;23,90;Grijalbo;Novela histórica;Castellano;448;Tapa dura;16/01/2025;2025;https://imagessl8.casadellibro.com/a/l/s7/28/9788425369728.webp;195
+331;nh31;LOS CUATRO PILARES;22,95;Ediciones Pàmies;Novela histórica;Castellano;416;Tapa blanda;12/05/2025;2025;https://imagessl2.casadellibro.com/a/l/s7/82/9788410070882.webp;196
+332;nh32;HIJOS DE LA LUNA;23,00;Editora y Distribuidora Hispano Americana, S.A.;Novela histórica;Castellano;576;Tapa dura;11/06/2025;2025;https://imagessl6.casadellibro.com/a/l/s7/36/9788435064736.webp;197
+333;nh33;VIKINGOS;23,90;Espasa;Novela histórica;Castellano;632;Tapa dura;07/05/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/83/9788467077483.webp;198
+334;nh34;EL GUERRERO A LA SOMBRA DEL CEREZO;21,90;Suma;Novela histórica;Castellano;736;Tapa blanda;27/04/2017;2017;https://imagessl5.casadellibro.com/a/l/s7/05/9788491291305.webp;199
+335;nh35;DE PARTE DE LA PRINCESA MUERTA;23,90;Espasa;Novela histórica;Castellano;592;Tapa dura;31/01/2017;2017;https://imagessl5.casadellibro.com/a/l/s7/75/9788467049275.webp;200
+337;nh37;LOS NUEVE REINOS;22,90;Alfaguara;Novela histórica;Castellano;576;Tapa blanda;23/05/2024;2024;https://imagessl8.casadellibro.com/a/l/s7/28/9788420477428.webp;10
+338;nh38;MEMORIAS DE ADRIANO;22,00;Editora y Distribuidora Hispano Americana, S.A.;Novela histórica;Castellano;276;Tapa dura;30/09/1999;1999;https://imagessl8.casadellibro.com/a/l/s7/28/9788435005128.webp;201
+339;nh39;PRESENTES;20,90;Alfaguara;Novela histórica;Castellano;328;Tapa blanda;12/09/2024;2024;https://imagessl1.casadellibro.com/a/l/s7/01/9788420479101.webp;202
+340;nh40;LOS PILARES DE LA TIERRA;25,90;Plaza & Janes;Novela histórica;Castellano;1040;Tapa dura;08/01/2001;2001;https://imagessl0.casadellibro.com/a/l/s7/10/9788401328510.webp;178
+341;nh41;SIDI;21,90;Alfaguara;Novela histórica;Castellano;376;Tapa dura;18/09/2019;2019;https://imagessl3.casadellibro.com/a/l/s7/73/9788420435473.webp;203
+342;nh42;EL CLAN DEL OSO CAVERNARIO;19,90;Maeva Ediciones;Novela histórica;Castellano;576;Tapa blanda;02/10/2024;2024;https://imagessl1.casadellibro.com/a/l/s7/91/9788410260191.webp;204
+343;nh43;LOS LIBROS DE JACOB;29,90;Editorial Anagrama S.A.U.;Novela histórica;Castellano;1072;Tapa blanda;15/02/2023;2023;https://imagessl4.casadellibro.com/a/l/s7/04/9788433901804.webp;205
+344;nh44;LAS LEGIONES MALDITAS (TRILOGIA AFRICANUS 2);24,90;B;Novela histórica;Castellano;864;Tapa dura;13/09/2018;2018;https://imagessl1.casadellibro.com/a/l/s7/91/9788466663991.webp;173
+345;nh45;EL TABLERO DE LA REINA;22,90;B;Novela histórica;Castellano;624;Tapa dura;23/02/2023;2023;https://imagessl7.casadellibro.com/a/l/s7/87/9788466673587.webp;189
+346;nh46;LA CATEDRAL DEL MAR;24,90;Grijalbo;Novela histórica;Castellano;672;Tapa dura;02/01/2024;2024;https://imagessl6.casadellibro.com/a/l/s7/86/9788425367786.webp;174
+347;nh47;ESA DAMA;26,00;Editora y Distribuidora Hispano Americana, S.A.;Novela histórica;Castellano;348;Tapa blanda;30/11/1986;1986;https://imagessl8.casadellibro.com/a/l/s7/58/9788435005258.webp;206
+348;nh48;SHOGUN;14,95;Debolsillo;Novela histórica;Castellano;1128;Tapa blanda;05/03/2024;2024;https://imagessl6.casadellibro.com/a/l/s7/76/9788466376976.webp;207
+349;nh49;TE HE LLAMADO POR TU NOMBRE;23,90;Suma;Novela histórica;Castellano;560;Tapa dura;07/11/2024;2024;https://imagessl9.casadellibro.com/a/l/s7/99/9788491294399.webp;208
+350;nh50;LA ARMADURA DE LA LUZ (SAGA LOS PILARES DE LA TIERRA 4);24,90;Plaza & Janes;Novela histórica;Castellano;832;Tapa dura;26/09/2023;2023;https://imagessl0.casadellibro.com/a/l/s7/30/9788401030130.webp;178
+351;nh51;ULTIMA ROMA;22,00;Kokapeli;Novela histórica;Castellano;538;Tapa blanda;01/09/2023;2023;https://imagessl8.casadellibro.com/a/l/s7/58/9788412517958.webp;209
+352;nh52;MALEIDA ROMA (SERIE JULI CESAR 2);24,90;Rosa Dels Vents;Novela histórica;Catalán;880;Tapa dura;14/11/2023;2023;https://imagessl3.casadellibro.com/a/l/s7/23/9788419259523.webp;173
+353;nh53;LA GUERRA DEL FIN DEL MUNDO;24,90;Alfaguara;Novela histórica;Castellano;824;Tapa blanda;26/10/2023;2023;https://imagessl9.casadellibro.com/a/l/s7/69/9788420476469.webp;210
+354;nh54;UN MUNDO SIN FIN (SAGA LOS PILARES DE LA TIERRA 2);25,90;Plaza & Janes;Novela histórica;Castellano;1184;Tapa dura;06/07/2017;2017;https://imagessl9.casadellibro.com/a/l/s7/09/9788401019609.webp;178
+355;nh55;EL MAPA DE UN MUNDO NUEVO;23,90;B;Novela histórica;Castellano;672;Tapa dura;27/08/2024;2024;https://imagessl4.casadellibro.com/a/l/s7/14/9788466679114.webp;189
+356;nh56;PECADO NEFANDO;23,00;Editora y Distribuidora Hispano Americana, S.A.;Novela histórica;Castellano;432;Tapa dura;21/05/2025;2025;https://imagessl6.casadellibro.com/a/l/s7/06/9788435064606.webp;211
+357;nh57;TIBERIO GRACO. TRIBUNO DE ROMA;26,95;Desperta Ferro Ediciones;Novela histórica;Castellano;720;Tapa blanda;28/05/2025;2025;https://imagessl9.casadellibro.com/a/l/s7/49/9788412981049.webp;212
+358;nh58;CRISTINA, HIJA DE LAVRANS VOL. I;20,00;Ediciones Encuentro, S.A.;Novela histórica;Castellano;320;Tapa blanda;25/04/2025;2025;https://imagessl8.casadellibro.com/a/l/s7/18/9788413392318.webp;213
+359;nh59;EL DIOS QUE HABITA LA ESPADA (PREMIO NARRATIVAS HISTORICAS EDHASA 2021);21,00;Editora y Distribuidora Hispano Americana, S.A.;Novela histórica;Castellano;528;Tapa dura;25/03/2021;2021;https://imagessl7.casadellibro.com/a/l/s7/77/9788435063777.webp;179
+360;nh60;LAS TINIEBLAS Y EL ALBA (SAGA LOS PILARES DE LA TIERRA PRECUELA);25,90;Plaza & Janes;Novela histórica;Castellano;936;Tapa dura;15/09/2020;2020;https://imagessl6.casadellibro.com/a/l/s7/76/9788401022876.webp;178
+361;nh61;EL ENEMIGO DE JULIO CESAR (SERIE DICTATOR 2);5,95;Espasa;Novela histórica;Castellano;496;Tapa dura;18/01/2023;2023;https://imagessl2.casadellibro.com/a/l/s7/72/9788467068672.webp;214
+362;nh62;EL NOMBRE DE LA ROSA;24,90;Lumen;Novela histórica;Castellano;752;Tapa dura;24/07/2015;2015;https://imagessl8.casadellibro.com/a/l/s7/68/9788426403568.webp;215
+363;nh63;LA DUQUESA SALVAJE;22,90;La Esfera de los Libros, S.L.;Novela histórica;Castellano;320;Tapa blanda;07/05/2025;2025;https://imagessl5.casadellibro.com/a/l/s7/35/9788410940635.webp;216
+364;nh64;CRISTINA, HIJA DE LAVRANS VOL. II;20,00;Ediciones Encuentro, S.A.;Novela histórica;Castellano;452;Tapa blanda;25/04/2025;2025;https://imagessl5.casadellibro.com/a/l/s7/25/9788413392325.webp;213
+365;nh65;EL ENIGMA QUE BROTÓ DEL FUEGO;24,95;Almuzara;Novela histórica;Castellano;328;Tapa blanda;03/06/2025;2025;https://imagessl2.casadellibro.com/a/l/s7/52/9788410527652.webp;217
+367;nh67;CRISTINA, HIJA DE LAVRANS VOL. III;20,00;Ediciones Encuentro, S.A.;Novela histórica;Castellano;476;Tapa blanda;25/04/2025;2025;https://imagessl2.casadellibro.com/a/l/s7/32/9788413392332.webp;213
+368;nh68;QUAN S ALLUNYI LA TEMPESTA;23,00;Columna Cat;Novela histórica;Catalán;520;Tapa dura;04/06/2025;2025;https://imagessl1.casadellibro.com/a/l/s7/91/9788466433891.webp;218
+369;nh69;LA CACERIA;18,90;Alfaguara;Novela histórica;Castellano;240;Tapa blanda;13/06/2012;2012;https://imagessl4.casadellibro.com/a/l/s7/34/9788420402734.webp;219
+370;nh70;LA CENA SECRETA;21,90;Editorial Planeta;Novela histórica;Castellano;368;Tapa dura;02/10/2014;2014;https://imagessl1.casadellibro.com/a/l/s7/11/9788408107811.webp;25
+371;nh71;BOMARZO;23,50;Seix Barral;Novela histórica;Castellano;680;Tapa blanda;06/03/2024;2024;https://imagessl1.casadellibro.com/a/l/s7/01/9788432243301.webp;220
+372;nh72;EL AÑO DE LA REPÚBLICA;15,90;Harper Bolsillo;Novela histórica;Castellano;640;Tapa blanda bolsillo;03/04/2024;2024;https://imagessl5.casadellibro.com/a/l/s7/55/9788419809155.webp;180
+373;nh73;EL NACIMIENTO DE UN GUERRERO. TIEMPO DE ESPADAS I;24,50;Editora y Distribuidora Hispano Americana, S.A.;Novela histórica;Castellano;576;Tapa dura;29/05/2024;2024;https://imagessl7.casadellibro.com/a/l/s7/17/9788435064217.webp;221
+374;nh74;LA HERMANDAD DE LA SÁBANA SANTA;22,90;Plaza & Janes;Novela histórica;Castellano;496;Tapa dura;08/04/2024;2024;https://imagessl6.casadellibro.com/a/l/s7/96/9788401035296.webp;222
+375;nh75;ASÍ EN LA GUERRA COMO EN LA PAZ;5,95;Espasa;Novela histórica;Castellano;344;Tapa blanda;15/03/2023;2023;https://imagessl6.casadellibro.com/a/l/s7/76/9788467067576.webp;223
+376;nh76;REINA DE SANGRE;19,95;Almuzara;Novela histórica;Castellano;320;Tapa blanda;25/06/2024;2024;https://imagessl6.casadellibro.com/a/l/s7/56/9788410521056.webp;224
+377;nh77;A LOMOS DEL TIGRE;22,00;Galaxia Gutenberg, S.L.;Novela histórica;Castellano;336;Tapa blanda;18/09/2024;2024;https://imagessl8.casadellibro.com/a/l/s7/88/9788410107588.webp;225
+378;nh78;EL FAR DE LES RAMBLES;23,90;La Campana;Novela histórica;Catalán;480;Tapa blanda;06/03/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/13/9788419836113.webp;226
+379;nh79;EL LAZO DE PÚRPURA;23,90;Istoria;Novela histórica;Castellano;976;Tapa dura;25/06/2025;2025;https://imagessl9.casadellibro.com/a/l/s7/09/9791387714109.webp;227
+380;nh80;LOS NIÑOS DE ALTAMAR;19,90;Lumen;Novela histórica;Castellano;192;Tapa blanda;13/03/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/83/9788426431783.webp;228
+381;nh81;LA CACERIA;18,90;Alfaguara;Novela histórica;Castellano;240;Tapa blanda;13/06/2012;2012;https://imagessl4.casadellibro.com/a/l/s7/34/9788420402734.webp;219
+382;nh82;PENELOPE;22,90;B;Novela histórica;Castellano;448;Tapa blanda;14/11/2024;2024;https://imagessl5.casadellibro.com/a/l/s7/85/9788466679985.webp;229
+383;nh83;LAS CUATRO PLUMAS (COLECCION ZENDA);19,50;Editora y Distribuidora Hispano Americana, S.A.;Novela histórica;Castellano;432;Tapa blanda;12/01/2022;2022;https://imagessl2.casadellibro.com/a/l/s7/42/9788435055642.webp;230
+384;nh84;LA LEYENDA DEL LADRON;23,90;B;Novela histórica;Castellano;656;Tapa dura;11/11/2021;2021;https://imagessl1.casadellibro.com/a/l/s7/51/9788466670951.webp;29
+385;nh85;EL MERCADER DE LIBROS;22,90;B;Novela histórica;Castellano;608;Tapa dura;12/03/2020;2020;https://imagessl5.casadellibro.com/a/l/s7/05/9788466667005.webp;189
+386;nh86;ESTUCHE SAGA JULIA DOMNA (YO, JULIA + Y JULIA RETO A LOS DIOSES);47,80;Editorial Planeta;Novela histórica;Castellano;1496;Tapa dura;17/11/2020;2020;https://imagessl8.casadellibro.com/a/l/s7/68/9788408225768.webp;203
+387;nh87;CIVILIZACIONES;21,00;Seix Barral;Novela histórica;Castellano;448;Tapa blanda;08/09/2020;2020;https://imagessl0.casadellibro.com/a/l/s7/10/9788432237010.webp;231
+388;nh88;ANIMALES DE LA SABANA;16,90;Harper Bolsillo;Novela histórica;Castellano;768;Tapa dura;10/03/2021;2021;https://imagessl4.casadellibro.com/a/l/s7/04/9788418623004.webp;232
+389;nh89;LA LEGION PERDIDA (TRILOGIA DE TRAJANO 3);24,90;Editorial Planeta;Novela histórica;Castellano;1152;Tapa dura;23/02/2016;2016;https://imagessl1.casadellibro.com/a/l/s7/81/9788408151081.webp;173
+390;nh90;47 RONIN: LA HISTORIA DE LOS LEALES SAMURARIS DE AKO;19,00;Satori Ediciones;Novela histórica;Castellano;432;Tapa blanda;23/01/2017;2017;https://imagessl5.casadellibro.com/a/l/s7/75/9788494578175.webp;233
+391;nh91;AMANECERES EN YENÍN;25,95;Boldletters;Novela histórica;Castellano;396;Tapa blanda;30/10/2024;2024;https://imagessl8.casadellibro.com/a/l/s7/78/9788418246678.webp;234
+392;nh92;TIBERIO GRACO. TRIBUNO DE LAS LEGIONES;26,95;Desperta Ferro Ediciones;Novela histórica;Castellano;792;Tapa blanda;02/10/2024;2024;https://imagessl4.casadellibro.com/a/l/s7/94/9788412815894.webp;212
+394;nh94;YO, CLAUDIO;28,00;Editora y Distribuidora Hispano Americana, S.A.;Novela histórica;Castellano;640;Tapa dura;30/08/2012;2012;https://imagessl9.casadellibro.com/a/l/s7/19/9788435062619.webp;236
+395;nh95;EL VELLOCINO DE ORO;23,00;Editora y Distribuidora Hispano Americana, S.A.;Novela histórica;Castellano;672;Tapa blanda;10/01/2024;2024;https://imagessl9.casadellibro.com/a/l/s7/39/9788435064439.webp;236
+396;nh96;CAPITAN DE NAVIO (SERIE AUBREY-MATURIN 2);22,00;Editora y Distribuidora Hispano Americana, S.A.;Novela histórica;Castellano;576;Tapa blanda;04/10/2023;2023;https://imagessl7.casadellibro.com/a/l/s7/47/9788435064347.webp;237
+397;nh97;LA SANGRE DEL PADRE (FINALISTA PREMIO PLANETA 2023);22,90;Editorial Planeta;Novela histórica;Castellano;608;Tapa dura;08/11/2023;2023;https://imagessl7.casadellibro.com/a/l/s7/87/9788408280187.webp;238
+398;nh98;ROJO AMANECER EN LEPANTO;13,95;B de Bolsillo;Novela histórica;Castellano;384;Tapa blanda bolsillo;02/11/2023;2023;https://imagessl2.casadellibro.com/a/l/s7/82/9788413148182.webp;189
+399;nh99;LAS MIRADAS DE MEDUSA;22,00;Salamandra;Novela histórica;Castellano;384;Tapa blanda;19/09/2024;2024;https://imagessl5.casadellibro.com/a/l/s7/25/9788419456625.webp;239
+400;nh100;LES NOIES DE SANTS;22,90;Columna Cat;Novela histórica;Catalán;504;Tapa dura;04/09/2024;2024;https://imagessl6.casadellibro.com/a/l/s7/76/9788466432276.webp;240
+401;nf1;EL SEÑOR DE LOS ANILLOS. EDICIÓN ILUSTRADA POR EL AUTOR;69,95;Minotauro;Novela fantástica;Castellano;1416;Tapa dura;16/04/2025;2025;https://imagessl0.casadellibro.com/a/l/s7/80/9788445019580.webp;241
+402;nf2;LOS DIABLOS;23,95;Alianza Editorial;Novela fantástica;Castellano;808;Tapa blanda;22/05/2025;2025;https://imagessl6.casadellibro.com/a/l/s7/36/9788411489836.webp;242
+403;nf3;CATÁBASIS;26,95;Hidra;Novela fantástica;Castellano;648;Tapa dura;01/09/2025;2025;https://imagessl1.casadellibro.com/a/l/s7/91/9791387711191.webp;243
+404;nf4;QUE ENTIERREN NUESTROS HUESOS EN LA MEDIANOCHE;26,00;Umbriel;Novela fantástica;Castellano;576;Tapa dura;10/06/2025;2025;https://imagessl6.casadellibro.com/a/l/s7/26/9788410085626.webp;244
+405;nf5;UNA MALDICIÓN TALLADA EN HUESO;24,95;Hidra;Novela fantástica;Castellano;448;Tapa dura;22/09/2025;2025;https://imagessl1.casadellibro.com/a/l/s7/91/9788410163591.webp;245
+406;nf6;TEMOR A LA LUZ;25,00;Inlov;Novela fantástica;Castellano;624;Tapa dura;05/03/2025;2025;https://imagessl7.casadellibro.com/a/l/s7/37/9788410399037.webp;246
+408;nf8;EL CABALLERO DE LOS SIETE REINOS (CANCIÓN DE HIELO Y FUEGO);26,90;Plaza & Janes;Novela fantástica;Castellano;448;Tapa dura;19/06/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/73/9788401036873.webp;248
+409;nf9;APRENDIZ DE ASESINO;21,50;Nocturna Ediciones;Novela fantástica;Castellano;448;Tapa blanda;12/05/2025;2025;https://imagessl7.casadellibro.com/a/l/s7/77/9788419680877.webp;249
+410;nf10;IMPERIO DE FUEGO AZUL;23,90;B;Novela fantástica;Castellano;512;Tapa blanda;22/05/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/13/9788466682213.webp;250
+411;nf11;MUERTE A LA OSCURIDAD;24,00;Inlov;Novela fantástica;Castellano;608;Tapa dura;06/11/2024;2024;https://imagessl3.casadellibro.com/a/l/s7/13/9788410399013.webp;246
+412;nf12;LA VOLUNTAD DE MUCHOS;25,95;Editorial Hidra;Novela fantástica;Castellano;800;Tapa dura;19/05/2025;2025;https://imagessl2.casadellibro.com/a/l/s7/42/9788410163942.webp;251
+413;nf13;EL SILMARILLION. EDICION ILUSTRADA POR EL AUTOR;50,00;Minotauro;Novela fantástica;Castellano;538;Tapa dura;16/04/2025;2025;https://imagessl4.casadellibro.com/a/l/s7/94/9788445016794.webp;241
+414;nf14;ALEGRÍA DE VIVIR. ANTE EL DRAMA DE NUESTRO TIEMPO.;29,90;Nova;Novela fantástica;Castellano;760;Tapa dura;18/11/2021;2021;https://imagessl0.casadellibro.com/a/l/s7/90/9788418037290.webp;252
+415;nf15;ATLAS DE LA TIERRA MEDIA;142,50;Minotauro;Novela fantástica;Castellano;216;Tapa dura;10/07/2024;2024;https://imagessl5.casadellibro.com/a/l/s7/35/9788445017135.webp;253
+416;nf16;UN TRATO CON EL REY DE LOS ELFOS (TAPA DURA);23,00;Umbriel;Novela fantástica;Castellano;384;Tapa dura;03/06/2025;2025;https://imagessl4.casadellibro.com/a/l/s7/64/9788410085664.webp;254
+417;nf17;INDÓMITA;20,90;Siren Books;Novela fantástica;Castellano;576;Tapa blanda;16/09/2024;2024;https://imagessl8.casadellibro.com/a/l/s7/58/9788412854558.webp;255
+418;nf18;IMPERIO EN LLAMAS;23,90;B;Novela fantástica;Castellano;512;Tapa blanda;22/05/2025;2025;https://imagessl0.casadellibro.com/a/l/s7/90/9788466682190.webp;250
+420;nf20;NACIDOS DE LA BRUMA (TRILOGÍA ORIGINAL MISTBORN (EDICIÓN ILUSTRAD A) 1);29,90;Nova;Novela fantástica;Castellano;672;Tapa dura;25/04/2024;2024;https://imagessl1.casadellibro.com/a/l/s7/51/9788419260451.webp;252
+421;nf21;UN DESTINO FORJADO A FUEGO;23,90;Rba Libros;Novela fantástica;Castellano;520;Tapa dura;18/06/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/53/9788411329453.webp;256
+422;nf22;EL IMPERIO DEL VAMPIRO;24,95;Nocturna Ediciones;Novela fantástica;Castellano;944;Tapa blanda;19/09/2022;2022;https://imagessl1.casadellibro.com/a/l/s7/71/9788418440571.webp;257
+423;nf23;EL POZO DE LA ASCENSION (NACIDOS DE LA BRUMA-MISTBORN (EDICIÓN ILUSTRADA 2);29,90;Nova;Novela fantástica;Castellano;784;Tapa dura;30/09/2021;2021;https://imagessl6.casadellibro.com/a/l/s7/76/9788418037276.webp;252
+424;nf24;LA REPÚBLICA DEL DRAGÓN;25,00;Editorial Hidra;Novela fantástica;Castellano;792;Tapa dura;11/03/2024;2024;https://imagessl0.casadellibro.com/a/l/s7/10/9788419266910.webp;243
+425;nf25;ASESINO REAL;24,50;Nocturna Ediciones;Novela fantástica;Castellano;704;Tapa blanda;12/05/2025;2025;https://imagessl9.casadellibro.com/a/l/s7/69/9788419680969.webp;249
+426;nf26;PALABRAS RADIANTES (SAGA EL ARCHIVO DE LAS TORMENTAS 2);34,90;Nova;Novela fantástica;Castellano;1248;Tapa dura;01/07/2015;2015;https://imagessl9.casadellibro.com/a/l/s7/49/9788466657549.webp;252
+427;nf27;VIENTO Y VERDAD (EL ARCHIVO DE LAS TORMENTAS 5);34,90;Nova;Novela fantástica;Castellano;1408;Tapa dura;09/12/2024;2024;https://imagessl3.casadellibro.com/a/l/s7/43/9788419260543.webp;252
+428;nf28;FULGOR (LA PRISIONERA DE ORO 4);22,90;Roca Editorial;Novela fantástica;Castellano;696;Tapa blanda;29/05/2025;2025;https://imagessl2.casadellibro.com/a/l/s7/32/9788410442832.webp;258
+429;nf29;ARCANUM ILIMITADO: LA COLECCION DEL COSMERE;27,90;Nova;Novela fantástica;Castellano;784;Tapa dura;18/10/2017;2017;https://imagessl1.casadellibro.com/a/l/s7/21/9788466662321.webp;252
+430;nf30;LAS DOS TORRES. ILUSTRADO POR ALAN LEE (NE REVISADA);30,00;Minotauro;Novela fantástica;Castellano;400;Tapa dura;18/06/2025;2025;https://imagessl9.casadellibro.com/a/l/s7/19/9788445019719.webp;241
+432;nf32;BRAZALES DE DUELO (ED. ILUSTRADA) (WAX & WAYNE: EDICIÓN ILUSTRADA 3);29,90;Nova;Novela fantástica;Castellano;512;Tapa dura;08/05/2025;2025;https://imagessl4.casadellibro.com/a/l/s7/74/9788410466074.webp;252
+433;nf33;BABEL;22,00;Editorial Hidra;Novela fantástica;Castellano;700;Tapa dura;21/11/2022;2022;https://imagessl6.casadellibro.com/a/l/s7/86/9788419266286.webp;243
+434;nf34;EL RETORNO DEL REY. ILUSTRADO POR ALAN LEE (NE REVISADA);30,00;Minotauro;Novela fantástica;Castellano;544;Tapa dura;16/07/2025;2025;https://imagessl8.casadellibro.com/a/l/s7/18/9788445019818.webp;241
+436;nf36;LA BÚSQUEDA DEL ASESINO;25,50;Nocturna Ediciones;Novela fantástica;Castellano;896;Tapa blanda;12/05/2025;2025;https://imagessl6.casadellibro.com/a/l/s7/76/9788419680976.webp;249
+437;nf37;LA GRAN CACERÍA  (RUEDA DEL TIEMPO Nº 2);20,95;Minotauro;Novela fantástica;Castellano;720;Tapa blanda;19/11/2019;2019;https://imagessl3.casadellibro.com/a/l/s7/13/9788445007013.webp;261
+438;nf38;OBSIDIANA;23,90;Grijalbo;Novela fantástica;Castellano;512;Tapa blanda;14/05/2025;2025;https://imagessl1.casadellibro.com/a/l/s7/81/9788425370281.webp;262
+439;nf39;EL CAMINO DE LOS REYES (SAGA EL ARCHIVO DE LAS TORMENTAS 1);34,90;Nova;Novela fantástica;Castellano;1200;Tapa dura;01/07/2015;2015;https://imagessl2.casadellibro.com/a/l/s7/62/9788466657662.webp;252
+440;nf40;EL OJO DEL MUNDO (LA RUEDA DEL TIEMPO Nº 1);20,95;Minotauro;Novela fantástica;Castellano;832;Tapa blanda;15/10/2019;2019;https://imagessl6.casadellibro.com/a/l/s7/06/9788445007006.webp;261
+441;nf41;OBSIDIANA;23,90;Grijalbo;Novela fantástica;Castellano;512;Tapa blanda;14/05/2025;2025;https://imagessl1.casadellibro.com/a/l/s7/81/9788425370281.webp;262
+442;nf42;EL LEGADO DE LA FURIA;25,95;Hidra;Novela fantástica;Castellano;432;Tapa dura;03/11/2025;2025;https://imagessl8.casadellibro.com/a/l/s7/38/9791387711238.webp;263
+443;nf43;LA ESPADA FULGURANTE;25,90;Ediciones Destino;Novela fantástica;Castellano;816;Tapa dura;04/06/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/93/9788423367993.webp;264
+444;nf44;LA GUERRA DE LA AMAPOLA;25,00;Editorial Hidra;Novela fantástica;Castellano;600;Tapa dura;04/09/2023;2023;https://imagessl3.casadellibro.com/a/l/s7/03/9788419266903.webp;243
+445;nf45;NUESTROS DESTINOS INFINITOS (EDICIÓN LIMITADA CON CANTOS PINTADOS);23,00;Umbriel;Novela fantástica;Castellano;352;Tapa dura;04/03/2025;2025;https://imagessl6.casadellibro.com/a/l/s7/66/9788410085466.webp;265
+446;nf46;EL ASCENSO DE LA SOMBRA (LA RUEDA DEL TIEMPO Nº 04);21,95;Minotauro;Novela fantástica;Castellano;1056;Tapa blanda;10/03/2020;2020;https://imagessl7.casadellibro.com/a/l/s7/37/9788445007037.webp;261
+447;nf47;JURAMENTADA (SAGA EL ARCHIVO DE LAS TORMENTAS 3);34,90;Nova;Novela fantástica;Castellano;1408;Tapa dura;05/04/2018;2018;https://imagessl0.casadellibro.com/a/l/s7/00/9788417347000.webp;252
+448;nf48;CIELO EN LLAMAS (LA RUEDA DEL TIEMPO Nº 5);21,95;Minotauro;Novela fantástica;Castellano;960;Tapa blanda;19/05/2020;2020;https://imagessl4.casadellibro.com/a/l/s7/44/9788445007044.webp;261
+449;nf49;ESTUCHE LA GUERRA DE LA AMAPOLA;75,00;Editorial Hidra;Novela fantástica;Castellano;2242;Tapa dura;02/09/2024;2024;https://imagessl8.casadellibro.com/a/l/s7/08/9788410163508.webp;243
+450;nf50;LA CIUDAD DE LAS ÚLTIMAS OPORTUNIDADES;24,95;Red Key Books0;Novela fantástica;Castellano;536;Tapa blanda;11/06/2025;2025;https://imagessl0.casadellibro.com/a/l/s7/60/9788412804560.webp;266
+451;nf51;LA VOZ DE LAS ESPADAS (EDICIÓN ILUSTRADA);30,95;Alianza Editorial;Novela fantástica;Castellano;684;Tapa dura;25/11/2021;2021;https://imagessl2.casadellibro.com/a/l/s7/82/9788413625782.webp;242
+452;nf52;ESQUIRLA DEL AMANECER (EL ARCHIVO DE LAS TORMENTAS 3.5);21,90;Nova;Novela fantástica;Castellano;256;Tapa dura;10/06/2021;2021;https://imagessl8.casadellibro.com/a/l/s7/38/9788418037238.webp;252
+453;nf53;LA RUEDA DEL TIEMPO Nº 12/14 LA TORMENTA;20,95;Minotauro;Novela fantástica;Castellano;832;Tapa blanda;08/09/2021;2021;https://imagessl2.casadellibro.com/a/l/s7/12/9788445007112.webp;261
+454;nf54;LA RUEDA DEL TIEMPO Nº 13/14 TORRES DE MEDIANOCHE;21,95;Minotauro;Novela fantástica;Castellano;944;Tapa blanda;20/10/2021;2021;https://imagessl9.casadellibro.com/a/l/s7/29/9788445007129.webp;261
+455;nf55;TERRAMAR 50 ANIVERSARIO;50,00;Minotauro;Novela fantástica;Castellano;1286;Tapa dura;13/10/2021;2021;https://imagessl4.casadellibro.com/a/l/s7/14/9788445008614.webp;267
+457;nf57;ALEACIÓN DE LEY (WAX & WAYNE: EDICIÓN ILUSTRADA 1);25,90;Nova;Novela fantástica;Castellano;352;Tapa dura;04/07/2024;2024;https://imagessl5.casadellibro.com/a/l/s7/15/9788419260215.webp;252
+459;nf59;TRENZA DEL MAR ESMERALDA (NOVELA SECRETA 1);26,90;Nova;Novela fantástica;Castellano;560;Tapa dura;19/01/2023;2023;https://imagessl8.casadellibro.com/a/l/s7/18/9788418037818.webp;252
+460;nf60;ELANTRIS (10º ANIVERSARIO);27,90;Nova;Novela fantástica;Castellano;800;Tapa dura;13/04/2016;2016;https://imagessl3.casadellibro.com/a/l/s7/43/9788466658843.webp;252
+461;nf61;ORO (LA PRISIONERA DE ORO 5);22,90;Roca Editorial;Novela fantástica;Castellano;632;Tapa blanda;24/07/2025;2025;https://imagessl4.casadellibro.com/a/l/s7/24/9788410442924.webp;258
+462;nf62;TODOS LOS ÁNGELES DEL INFIERNO;19,95;Faeris Editorial;Novela fantástica;Castellano;400;Tapa blanda;15/02/2024;2024;https://imagessl2.casadellibro.com/a/l/s7/02/9788419988102.webp;269
+463;nf63;EL HEROE DE LAS ERAS (SAGA NACIDOS DE LA BRUMA 3);24,90;Nova;Novela fantástica;Castellano;760;Tapa dura;05/10/2016;2016;https://imagessl1.casadellibro.com/a/l/s7/11/9788466658911.webp;252
+464;nf64;EL ALIENTO DE LOS DIOSES;27,90;Nova;Novela fantástica;Castellano;720;Tapa dura;08/06/2016;2016;https://imagessl4.casadellibro.com/a/l/s7/74/9788466658874.webp;252
+465;nf65;EL ESTRECHO SENDERO ENTRE DESEOS;21,90;Plaza & Janes;Novela fantástica;Castellano;240;Tapa dura;22/02/2024;2024;https://imagessl4.casadellibro.com/a/l/s7/74/9788401032974.webp;270
+466;nf66;ÓMNIBUS EL ELFO OSCURO. EDICIÓN ESPECIAL;60,00;Minotauro;Novela fantástica;Castellano;816;Tapa dura;27/11/2024;2024;https://imagessl1.casadellibro.com/a/l/s7/41/9788445017241.webp;271
+468;nf68;ESTUCHE AMANECER ROJO;50,00;Rba Libros;Novela fantástica;Castellano;1856;Tapa blanda;06/11/2024;2024;https://imagessl5.casadellibro.com/a/l/s7/95/9788411328395.webp;273
+469;nf69;EL TEMOR DE UN HOMBRE SABIO (TAPA DURA) (SAGA CRONICA DEL ASESINO DE REYES 2);26,90;Plaza&janes;Novela fantástica;Castellano;1200;Tapa dura;29/11/2011;2011;https://imagessl1.casadellibro.com/a/l/s7/31/9788401352331.webp;270
+470;nf70;EL IMPERIO SANGRIENTO Nº1 LA SANGRE DE LOS ANTIGUOS REYES;18,95;Minotauro;Novela fantástica;Castellano;352;Tapa blanda;21/05/2025;2025;https://imagessl4.casadellibro.com/a/l/s7/34/9788445019634.webp;274
+471;nf71;LA RUEDA DEL TIEMPO Nº 14/14 UN RECUERDO DE LUZ;21,95;Minotauro;Novela fantástica;Castellano;984;Tapa blanda;10/11/2021;2021;https://imagessl6.casadellibro.com/a/l/s7/36/9788445007136.webp;261
+472;nf72;EL DIOS EN LLAMAS;25,00;Editorial Hidra;Novela fantástica;Castellano;792;Tapa dura;02/09/2024;2024;https://imagessl7.casadellibro.com/a/l/s7/27/9788419266927.webp;243
+473;nf73;EL HOMBRE ILUMINADO (NOVELA SECRETA 4);26,90;Nova;Novela fantástica;Castellano;544;Tapa dura;19/10/2023;2023;https://imagessl3.casadellibro.com/a/l/s7/23/9788419260123.webp;252
+474;nf74;EL HEROE DE LAS ERAS (NACIDOS DE LA BRUMA [MISTBORN] 3);20,90;Nova;Novela fantástica;Castellano;760;Tapa blanda;15/02/2024;2024;https://imagessl0.casadellibro.com/a/l/s7/60/9788419260260.webp;252
+475;nf75;SOMBRAS DE IDENTIDAD (ED. ILUSTRADA) (WAX & WAYNE: EDICIÓN ILUSTR ADA 2);26,90;Nova;Novela fantástica;Castellano;440;Tapa dura;06/03/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/73/9788419260673.webp;252
+476;nf76;HERMANOS DE SANGRE Nº 03/03 LA FURIA DE LOS DIOSES;21,95;Minotauro;Novela fantástica;Castellano;560;Tapa blanda;26/02/2025;2025;https://imagessl2.casadellibro.com/a/l/s7/12/9788445014912.webp;275
+477;nf77;UN DESTINO TEÑIDO DE SANGRE;24,95;Editorial Hidra;Novela fantástica;Castellano;480;Tapa dura;25/11/2024;2024;https://imagessl4.casadellibro.com/a/l/s7/84/9788410163584.webp;245
+478;nf78;TODOS LOS DEMONIOS DEL CIELO;19,95;Faeris Editorial;Novela fantástica;Castellano;440;Tapa blanda;26/09/2024;2024;https://imagessl2.casadellibro.com/a/l/s7/62/9788419988362.webp;269
+479;nf79;EL POZO DE LA ASCENSION (SAGA NACIDOS DE LA BRUMA 2);24,90;Nova;Novela fantástica;Castellano;784;Tapa dura;21/09/2016;2016;https://imagessl4.casadellibro.com/a/l/s7/04/9788466658904.webp;252
+480;nf80;LA CAÍDA DE NÚMENOR;21,95;Minotauro;Novela fantástica;Castellano;384;Tapa dura;28/06/2023;2023;https://imagessl6.casadellibro.com/a/l/s7/56/9788445015056.webp;241
+481;nf81;LA RUEDA DEL TIEMPO Nº 11/14 CUCHILLO DE SUEÑOS;20,95;Minotauro;Novela fantástica;Castellano;800;Tapa blanda;30/06/2021;2021;https://imagessl5.casadellibro.com/a/l/s7/05/9788445007105.webp;261
+482;nf82;NUEVA PRIMAVERA  (RUEDA DEL TIEMPO Nº 0);16,95;Minotauro;Novela fantástica;Castellano;336;Tapa blanda;05/05/2021;2021;https://imagessl3.casadellibro.com/a/l/s7/93/9788445006993.webp;261
+483;nf83;YUMI Y EL PINTOR DE PESADILLAS (NOVELA SECRETA 3);26,90;Nova;Novela fantástica;Castellano;560;Tapa dura;20/07/2023;2023;https://imagessl4.casadellibro.com/a/l/s7/24/9788419260024.webp;252
+484;nf84;ESTUCHE ESPECIAL SIN DESTINO (SAGA COMPLETA);49,90;Hidra;Novela fantástica;Castellano;850;Tapa blanda;22/09/2025;2025;https://imagessl1.casadellibro.com/a/l/s7/21/9791387711221.webp;245
+485;nf85;EL ÚLTIMO UNICORNIO;18,95;Gran Travesía;Novela fantástica;Castellano;288;Tapa dura;07/05/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/43/9786075840543.webp;276
+486;nf86;EL NOMBRE DEL VIENTO (TAPA DURA) (SAGA CRONICA DEL ASESINO DE REY ES 1);26,90;Plaza&janes;Novela fantástica;Castellano;880;Tapa dura;29/11/2011;2011;https://imagessl8.casadellibro.com/a/l/s7/48/9788401352348.webp;270
+487;nf87;EL HOBBIT. ILUSTRADO POR ALAN LEE (NE REVISADA);35,00;Minotauro;Novela fantástica;Castellano;304;Tapa dura;02/10/2024;2024;https://imagessl9.casadellibro.com/a/l/s7/89/9788445017289.webp;241
+488;nf88;EL IMPERIO DE LOS CONDENADOS;25,95;Nocturna Ediciones;Novela fantástica;Castellano;920;Tapa blanda;13/01/2025;2025;https://imagessl6.casadellibro.com/a/l/s7/46/9788419680846.webp;257
+489;nf89;LA CAÍDA DE NÚMENOR;21,95;Minotauro;Novela fantástica;Castellano;384;Tapa dura;28/06/2023;2023;https://imagessl6.casadellibro.com/a/l/s7/56/9788445015056.webp;241
+490;nf90;LA SOMBRA DE LOS DIOSES;20,95;Minotauro;Novela fantástica;Castellano;496;Tapa blanda;11/10/2022;2022;https://imagessl2.casadellibro.com/a/l/s7/52/9788445012352.webp;275
+491;nf91;ALEACION DE LEY (SAGA NACIDOS DE LA BRUMA 4);24,90;Nova;Novela fantástica;Castellano;352;Tapa dura;19/10/2016;2016;https://imagessl8.casadellibro.com/a/l/s7/28/9788466658928.webp;252
+492;nf92;AMANECER ROJO 3. MAÑANA AZUL;22,90;Rba Libros;Novela fantástica;Castellano;672;Tapa blanda;17/02/2022;2022;https://imagessl2.casadellibro.com/a/l/s7/72/9788491879572.webp;273
+493;nf93;AMANECER ROJO 1;22,90;Rba Libros;Novela fantástica;Castellano;544;Tapa blanda;17/02/2022;2022;https://imagessl9.casadellibro.com/a/l/s7/39/9788491876939.webp;273
+494;nf94;LA CORONA DE ESPADAS Nº 07/14;20,95;Minotauro;Novela fantástica;Castellano;768;Tapa blanda;17/09/2020;2020;https://imagessl8.casadellibro.com/a/l/s7/68/9788445007068.webp;261
+495;nf95;LA RUEDA DEL TIEMPO Nº 09/14 EL CORAZÓN DEL INVIERNO;20,95;Minotauro;Novela fantástica;Castellano;640;Tapa blanda;20/01/2021;2021;https://imagessl2.casadellibro.com/a/l/s7/82/9788445007082.webp;261
+496;nf96;CHOQUE DE REYES (CANCIÓN DE HIELO Y FUEGO 2);27,90;Plaza&janes;Novela fantástica;Castellano;936;Tapa dura;22/06/2023;2023;https://imagessl1.casadellibro.com/a/l/s7/31/9788401032431.webp;248
+497;nf97;JUEGO DE TRONOS (CANCIÓN DE HIELO Y FUEGO 1);27,90;Plaza&janes;Novela fantástica;Castellano;800;Tapa dura;22/06/2023;2023;https://imagessl4.casadellibro.com/a/l/s7/24/9788401032424.webp;248
+498;nf98;OLVIDADO REY GUDÚ;26,50;Ediciones Destino;Novela fantástica;Castellano;768;Tapa dura;19/03/2025;2025;https://imagessl5.casadellibro.com/a/l/s7/15/9788423367115.webp;277
+499;nf99;GENERACIONES Nº 01/03 INTEMPORAL;21,95;Minotauro;Novela fantástica;Castellano;448;Tapa dura;21/05/2025;2025;https://imagessl1.casadellibro.com/a/l/s7/91/9788445014691.webp;271
+501;nc1;CARL EL MAZMORRERO;22,90;Nova;Novela de ciencia ficción;Castellano;464;Tapa blanda;10/07/2025;2025;https://imagessl5.casadellibro.com/a/l/s7/35/9788410466135.webp;279
+502;nc2;PROYECTO HAIL MARY;22,90;Nova;Novela de ciencia ficción;Castellano;544;Tapa blanda;20/05/2021;2021;https://imagessl6.casadellibro.com/a/l/s7/16/9788418037016.webp;280
+503;nc3;JERUSALEN (CABALLO DE TROYA 1);15,00;Editorial Planeta;Novela de ciencia ficción;Castellano;736;Tapa blanda;09/11/2011;2011;https://imagessl7.casadellibro.com/a/l/s7/47/9788408108047.webp;281
+504;nc4;THE HORUS HERESY: SIEGE OF TERRA Nº 05 MORTIS;21,95;Minotauro;Novela de ciencia ficción;Castellano;480;Tapa blanda;25/06/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/03/9788445018903.webp;282
+505;nc5;SISTEMAS CRÍTICOS;17,50;Editorial Hidra;Novela de ciencia ficción;Castellano;176;Tapa dura;12/05/2025;2025;https://imagessl9.casadellibro.com/a/l/s7/39/9791387711139.webp;283
+506;nc6;IMPERIO OSCURO Nº 03 PLAGA DIVINA;20,95;Minotauro;Novela de ciencia ficción;Castellano;416;Tapa blanda;18/06/2025;2025;https://imagessl7.casadellibro.com/a/l/s7/97/9788445018897.webp;284
+507;nc7;LOS DESPOSEIDOS;16,95;Minotauro;Novela de ciencia ficción;Castellano;456;Tapa blanda;29/09/2021;2021;https://imagessl0.casadellibro.com/a/l/s7/20/9788445010020.webp;267
+508;nc8;SILO Nº 01/03 WOOL;18,95;Minotauro;Novela de ciencia ficción;Castellano;552;Tapa blanda;27/09/2023;2023;https://imagessl5.casadellibro.com/a/l/s7/45/9788445016145.webp;285
+509;nc9;DURA UNA ETERNIDAD Y EN UN INSTANTE SE ACABA;18,90;Editorial Sexto Piso;Novela de ciencia ficción;Castellano;142;Tapa blanda;10/03/2025;2025;https://imagessl7.casadellibro.com/a/l/s7/87/9788410249387.webp;286
+510;nc10;SILO Nº 02/03 SHIFT;18,95;Minotauro;Novela de ciencia ficción;Castellano;576;Tapa blanda;31/01/2024;2024;https://imagessl2.casadellibro.com/a/l/s7/52/9788445016152.webp;285
+511;nc11;THE HORUS HERESY: SIEGE OF TERRA Nº 06 EL HALCÓN GUERRERO;20,95;Minotauro;Novela de ciencia ficción;Castellano;448;Tapa blanda;10/09/2025;2025;https://imagessl2.casadellibro.com/a/l/s7/72/9788445018972.webp;287
+512;nc12;EXPEDIENTE HERMES (PREMIO MINOTAURO 2025);22,95;Minotauro;Novela de ciencia ficción;Castellano;496;Tapa dura;26/03/2025;2025;https://imagessl6.casadellibro.com/a/l/s7/66/9788445019566.webp;288
+513;nc13;STAR WARS NOVELA: DARTH PLAGUEIS;25,00;Planeta Cómic;Novela de ciencia ficción;Castellano;488;Tapa blanda;06/11/2014;2014;https://imagessl5.casadellibro.com/a/l/s7/05/9788416090105.webp;289
+514;nc14;LOS DESPOSEÍDOS;19,95;Minotauro;Novela de ciencia ficción;Castellano;464;Tapa blanda;19/11/2020;2020;https://imagessl7.casadellibro.com/a/l/s7/07/9788445009307.webp;267
+515;nc15;PRIMARCHS Nº 04 PERTURABO: EL MARTILLO DE OLYMPIA;17,95;Minotauro;Novela de ciencia ficción;Castellano;256;Tapa blanda;09/07/2025;2025;https://imagessl7.casadellibro.com/a/l/s7/27/9788445018927.webp;284
+516;nc16;SILO Nº 03/03 DUST;18,95;Minotauro;Novela de ciencia ficción;Castellano;432;Tapa blanda;03/04/2024;2024;https://imagessl9.casadellibro.com/a/l/s7/69/9788445016169.webp;285
+517;nc17;METRO 2033 (NE);19,95;Minotauro;Novela de ciencia ficción;Castellano;544;Tapa blanda;07/09/2022;2022;https://imagessl9.casadellibro.com/a/l/s7/19/9788445012819.webp;290
+518;nc18;EL DÍA DEL RELÁMPAGO. CABALLO DE TROYA 10;15,00;Editorial Planeta;Novela de ciencia ficción;Castellano;568;Tapa blanda;26/10/2022;2022;https://imagessl5.casadellibro.com/a/l/s7/95/9788408263395.webp;281
+519;nc19;EL DIARIO DE ELISEO. CABALLO DE TROYA 11;15,00;Editorial Planeta;Novela de ciencia ficción;Castellano;816;Tapa blanda;26/10/2022;2022;https://imagessl1.casadellibro.com/a/l/s7/01/9788408263401.webp;281
+520;nc20;EL FIN DE LA MUERTE (ED. ILUSTRADA) (TRILOGÍA DE LOS TRES CUERPOS 3);29,90;Nova;Novela de ciencia ficción;Castellano;736;Tapa dura;24/10/2024;2024;https://imagessl9.casadellibro.com/a/l/s7/29/9788419260529.webp;291
+521;nc21;DESAFIANTE (ESCUADRÓN 4);21,90;Nova;Novela de ciencia ficción;Castellano;464;Tapa blanda;23/11/2023;2023;https://imagessl0.casadellibro.com/a/l/s7/00/9788419260000.webp;252
+522;nc22;SOLARIS;22,95;Impedimenta;Novela de ciencia ficción;Castellano;272;Tapa blanda;11/04/2011;2011;https://imagessl3.casadellibro.com/a/l/s7/93/9788415130093.webp;292
+523;nc23;QUIENES SE MARCHAN DE OMELAS;16,50;Nórdica Libros;Novela de ciencia ficción;Castellano;48;Tapa dura;02/05/2022;2022;https://imagessl8.casadellibro.com/a/l/s7/78/9788418930478.webp;267
+524;nc24;AMANECER DE FUEGO Nº 05 EL REINO DE HIERRO;21,95;Minotauro;Novela de ciencia ficción;Castellano;448;Tapa blanda;21/05/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/73/9788445018873.webp;293
+525;nc25;LA HISTORIA DE TU VIDA;22,95;Alamut;Novela de ciencia ficción;Castellano;336;Tapa blanda;11/02/2021;2021;https://imagessl5.casadellibro.com/a/l/s7/55/9788498891355.webp;294
+526;nc26;FLORES PARA ALGERNON;21,95;Alamut;Novela de ciencia ficción;Castellano;264;Tapa dura;31/01/2019;2019;https://imagessl7.casadellibro.com/a/l/s7/57/9788498891157.webp;295
+527;nc27;"LOS AUTOESTOPISTAS GALACTICOS (CONTIENE: GUIA DEL AUTOESTOPISTA GALACTICO; EL RESTAURANTE DE FIN DEL MUNDO; LA VIDA, EL UNIVERSO Y TODO LO DEMAS";26,90;Editorial Anagrama S.A.U.;Novela de ciencia ficción;Castellano;600;Tapa blanda;06/09/2017;2017;https://imagessl0.casadellibro.com/a/l/s7/60/9788433959560.webp;296
+528;nc28;LA HEREJIA DE HORUS 1: HORUS, SEÑOR DE LA GUERRA;20,95;Minotauro;Novela de ciencia ficción;Castellano;352;Tapa blanda;15/03/2016;2016;https://imagessl1.casadellibro.com/a/l/s7/91/9788445003091.webp;297
+529;nc29;EL PROBLEMA DE LOS TRES CUERPOS (TRILOGIA DE LOS TRES CUERPOS 1);21,90;Nova;Novela de ciencia ficción;Castellano;416;Tapa blanda;28/09/2016;2016;https://imagessl4.casadellibro.com/a/l/s7/34/9788466659734.webp;291
+530;nc30;EL BOSQUE OSCURO (ED. ILUSTRADA) (TRILOGÍA DE LOS TRES CUERPOS 2);26,50;Nova;Novela de ciencia ficción;Castellano;576;Tapa dura;05/09/2024;2024;https://imagessl2.casadellibro.com/a/l/s7/12/9788419260512.webp;291
+531;nc31;NOSOTROS;20,00;Salamandra;Novela de ciencia ficción;Castellano;288;Tapa blanda;18/05/2023;2023;https://imagessl8.casadellibro.com/a/l/s7/68/9788418363368.webp;298
+532;nc32;TRILOGIA ¡ILLUMINATUS!;28,00;Orciny Press;Novela de ciencia ficción;Castellano;728;Tapa blanda;28/11/2023;2023;https://imagessl5.casadellibro.com/a/l/s7/45/9788412604245.webp;299
+533;nc33;EL ZOO DE PAPEL Y OTROS RELATOS;26,95;Alianza Editorial;Novela de ciencia ficción;Castellano;544;Tapa blanda;06/04/2017;2017;https://imagessl5.casadellibro.com/a/l/s7/75/9788491046875.webp;300
+534;nc34;LA PUERTA DE ABADON (THE EXPANSE 3);22,90;Nova;Novela de ciencia ficción;Castellano;576;Tapa blanda;20/09/2018;2018;https://imagessl8.casadellibro.com/a/l/s7/08/9788417347208.webp;301
+536;nc36;EL INFINITO Y LO DIVINO;20,95;Minotauro;Novela de ciencia ficción;Castellano;384;Tapa blanda;30/11/2022;2022;https://imagessl4.casadellibro.com/a/l/s7/84/9788445012284.webp;302
+537;nc37;LA CÓLERA DE TIAMAT (THE EXPANSE 8);22,90;Nova;Novela de ciencia ficción;Castellano;592;Tapa blanda;09/02/2023;2023;https://imagessl5.casadellibro.com/a/l/s7/95/9788418037795.webp;301
+538;nc38;METRO 2034 (NE);18,95;Minotauro;Novela de ciencia ficción;Castellano;368;Tapa blanda;11/10/2022;2022;https://imagessl6.casadellibro.com/a/l/s7/26/9788445012826.webp;290
+539;nc39;LA VIEJA GUARDIA (CTS: COMIENZA TU SERIE);6,95;Minotauro;Novela de ciencia ficción;Castellano;304;Tapa blanda;03/07/2024;2024;https://imagessl4.casadellibro.com/a/l/s7/24/9788445013724.webp;303
+540;nc40;HEREDEROS DEL RECUERDO;29,95;Alamut;Novela de ciencia ficción;Castellano;432;Tapa dura;01/01/2025;2025;https://imagessl6.casadellibro.com/a/l/s7/46/9788498891546.webp;266
+542;nc42;DEATH STRANDING Nº 01/02 (NOVELA);22,00;Planeta Cómic;Novela de ciencia ficción;Castellano;264;Tapa blanda;27/04/2022;2022;https://imagessl5.casadellibro.com/a/l/s7/35/9788491749035.webp;304
+543;nc43;LA HEREJIA DE HORUS 12: LOS MIL HIJOS;22,95;Minotauro;Novela de ciencia ficción;Castellano;504;Tapa blanda;15/03/2016;2016;https://imagessl6.casadellibro.com/a/l/s7/06/9788445003206.webp;305
+544;nc44;LA HEREJIA DE HORUS 2: FALSOS DIOSES;20,95;Minotauro;Novela de ciencia ficción;Castellano;352;Tapa blanda;15/03/2016;2016;https://imagessl7.casadellibro.com/a/l/s7/07/9788445003107.webp;305
+545;nc45;LA HEREJIA DE HORUS 14: EL PRIMER HEREJE;21,95;Minotauro;Novela de ciencia ficción;Castellano;448;Tapa blanda;15/03/2016;2016;https://imagessl0.casadellibro.com/a/l/s7/20/9788445003220.webp;306
+546;nc46;LA HEREJIA DE HORUS 3: LA GALAXIA EN LLAMAS;20,95;Minotauro;Novela de ciencia ficción;Castellano;304;Tapa blanda;15/03/2016;2016;https://imagessl4.casadellibro.com/a/l/s7/14/9788445003114.webp;307
+547;nc47;LOBO ESPACIAL;45,00;Minotauro;Novela de ciencia ficción;Castellano;944;Tapa blanda;09/07/2025;2025;https://imagessl4.casadellibro.com/a/l/s7/94/9788445019894.webp;308
+548;nc48;EL FIN DEL IMPERIO (SAGA LA INTERDEPENDENCIA 1);18,95;Minotauro;Novela de ciencia ficción;Castellano;328;Tapa blanda;23/10/2018;2018;https://imagessl0.casadellibro.com/a/l/s7/20/9788445005620.webp;303
+549;nc49;STAR WARS: UN NUEVO AMANECER (NOVELA);22,00;Planeta Cómic;Novela de ciencia ficción;Castellano;392;Tapa blanda;09/05/2017;2017;https://imagessl6.casadellibro.com/a/l/s7/16/9788416889716.webp;309
+550;nc50;LA CIUDAD Y LA CIUDAD;22,90;Nova;Novela de ciencia ficción;Castellano;400;Tapa dura;10/05/2018;2018;https://imagessl6.casadellibro.com/a/l/s7/16/9788417347116.webp;310
+552;nc52;TRILOGIA DE SPRAWL Nº 03/03 MONA LISA ACELERADA;15,95;Minotauro;Novela de ciencia ficción;Castellano;392;Tapa blanda;05/07/2023;2023;https://imagessl8.casadellibro.com/a/l/s7/68/9788445009468.webp;311
+553;nc53;NEUROMANTE TRILOGIA DE SPRAWL;15,95;Minotauro;Novela de ciencia ficción;Castellano;392;Tapa blanda;01/02/2023;2023;https://imagessl4.casadellibro.com/a/l/s7/54/9788445015254.webp;311
+555;nc55;CONDE CERO Nº 02/03 TRILOGÍA DE SPRAWL;15,95;Minotauro;Novela de ciencia ficción;Castellano;384;Tapa blanda;03/05/2023;2023;https://imagessl1.casadellibro.com/a/l/s7/51/9788445009451.webp;311
+556;nc56;GITSLAYER;20,95;Minotauro;Novela de ciencia ficción;Castellano;320;Tapa blanda;06/07/2022;2022;https://imagessl1.casadellibro.com/a/l/s7/51/9788445011751.webp;313
+558;nc58;OGROS;17,01;Dolmen Books;Novela de ciencia ficción;Castellano;168;Tapa blanda;23/06/2025;2025;https://imagessl8.casadellibro.com/a/l/s7/88/9791387689988.webp;266
+560;nc60;TRES FANTASÍAS GÓTICAS;27,50;Valdemar;Novela de ciencia ficción;Castellano;400;Tapa dura;23/06/2021;2021;https://imagessl5.casadellibro.com/a/l/s7/05/9788477029205.webp;314
+561;nc61;LABERINTO DE MUERTE;14,95;Minotauro;Novela de ciencia ficción;Castellano;240;Tapa blanda;30/06/2021;2021;https://imagessl3.casadellibro.com/a/l/s7/33/9788445007433.webp;315
+562;nc62;TRILOGIA FUNDACION (EDICION ILUSTRADA);34,90;Nova;Novela de ciencia ficción;Castellano;832;Tapa dura;07/04/2022;2022;https://imagessl2.casadellibro.com/a/l/s7/42/9788418037542.webp;316
+563;nc63;CITÓNICA (ESCUADRON 3);21,90;Nova;Novela de ciencia ficción;Castellano;456;Tapa blanda;02/12/2021;2021;https://imagessl1.casadellibro.com/a/l/s7/91/9788418037191.webp;252
+564;nc64;EL HOMBRE ILUSTRADO;18,95;Minotauro;Novela de ciencia ficción;Castellano;320;Tapa blanda;19/05/2020;2020;https://imagessl1.casadellibro.com/a/l/s7/01/9788445006801.webp;317
+565;nc65;EL IMPERIO EN LLAMAS (SAGA LA INTERDEPENDENCIA 2);18,95;Minotauro;Novela de ciencia ficción;Castellano;312;Tapa blanda;02/07/2019;2019;https://imagessl2.casadellibro.com/a/l/s7/52/9788445006252.webp;303
+566;nc66;EXHALACION;22,50;Editorial Sexto Piso;Novela de ciencia ficción;Castellano;348;Tapa blanda;15/07/2020;2020;https://imagessl3.casadellibro.com/a/l/s7/93/9788417517793.webp;294
+567;nc67;GIDEON LA NOVENA (SAGA DE LA TUMBA SELLADA 1);26,90;Nova;Novela de ciencia ficción;Castellano;544;Tapa dura;18/02/2021;2021;https://imagessl0.casadellibro.com/a/l/s7/70/9788417347970.webp;318
+568;nc68;EL JARDÍN DE NURGLE;20,95;Minotauro;Novela de ciencia ficción;Castellano;352;Tapa blanda;03/07/2018;2018;https://imagessl1.casadellibro.com/a/l/s7/61/9788445005361.webp;319
+570;nc70;LA ESTACION LA CALLE PERDIDO (BAS-LAG 1);26,90;Nova;Novela de ciencia ficción;Castellano;824;Tapa dura;08/02/2017;2017;https://imagessl3.casadellibro.com/a/l/s7/53/9788466660853.webp;310
+571;nc71;EL DESPERTAR DEL LEVIATAN (THE EXPANSE 1);22,90;Nova;Novela de ciencia ficción;Castellano;608;Tapa blanda;09/11/2016;2016;https://imagessl0.casadellibro.com/a/l/s7/50/9788466660150.webp;301
+572;nc72;CITA CON RAMA (ED. ILUSTRADA);24,90;Nova;Novela de ciencia ficción;Castellano;400;Tapa dura;16/03/2023;2023;https://imagessl8.casadellibro.com/a/l/s7/48/9788419260048.webp;320
+573;nc73;KALPA IMPERIAL;18,95;Minotauro;Novela de ciencia ficción;Castellano;256;Tapa blanda;14/02/2024;2024;https://imagessl2.casadellibro.com/a/l/s7/32/9788445016732.webp;321
+574;nc74;LA GLANDULA DE ICARO;22,80;Impedimenta;Novela de ciencia ficción;Castellano;256;Tapa dura;05/06/2023;2023;https://imagessl0.casadellibro.com/a/l/s7/20/9788419581020.webp;322
+576;nc76;LA VISTA DESDE LAS ESTRELLAS;21,90;B;Novela de ciencia ficción;Castellano;304;Tapa blanda;23/11/2023;2023;https://imagessl2.casadellibro.com/a/l/s7/22/9788466677622.webp;291
+577;nc77;MERIDIANO CERO;14,95;Minotauro;Novela de ciencia ficción;Castellano;160;Tapa blanda;15/01/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/13/9788445010013.webp;323
+578;nc78;FICIONES GAUCHOPUNKS;19,00;Caja Negra Editora;Novela de ciencia ficción;Castellano;184;Tapa blanda;01/05/2025;2025;https://imagessl8.casadellibro.com/a/l/s7/68/9789878272368.webp;324
+579;nc79;LA VOZ DEL AMO;21,37;Impedimenta;Novela de ciencia ficción;Castellano;320;Tapa dura;23/02/2017;2017;https://imagessl9.casadellibro.com/a/l/s7/89/9788416542789.webp;292
+580;nc80;LA FUNDACION Nº 1 (LOS FANTASMAS DE GAUNT);42,95;Minotauro;Novela de ciencia ficción;Castellano;1040;Tapa blanda;04/04/2017;2017;https://imagessl3.casadellibro.com/a/l/s7/63/9788445004463.webp;297
+581;nc81;ALGUNOS TEXTICULOS;10,40;Anroart Ediciones;Novela de ciencia ficción;Castellano;136;Tapa blanda;03/10/2008;2008;https://imagessl1.casadellibro.com/a/l/s7/81/9788496887381.webp;325
+582;nc82;LA GLANDULA DE ICARO;22,80;Impedimenta;Novela de ciencia ficción;Castellano;256;Tapa dura;05/06/2023;2023;https://imagessl0.casadellibro.com/a/l/s7/20/9788419581020.webp;322
+583;nc83;LA VOZ DEL AMO;21,37;Impedimenta;Novela de ciencia ficción;Castellano;320;Tapa dura;23/02/2017;2017;https://imagessl9.casadellibro.com/a/l/s7/89/9788416542789.webp;292
+584;nc84;LA FUNDACION Nº 1 (LOS FANTASMAS DE GAUNT);42,95;Minotauro;Novela de ciencia ficción;Castellano;1040;Tapa blanda;04/04/2017;2017;https://imagessl3.casadellibro.com/a/l/s7/63/9788445004463.webp;297
+585;nc85;EL JUEGO DE ENDER (SAGA DE ENDER 4 / ENDER 1);16,95;Alfaguara;Novela de ciencia ficción;Castellano;376;Tapa dura;03/07/2018;2018;https://imagessl3.casadellibro.com/a/l/s7/93/9788420434193.webp;326
+586;nc86;STAR WARS. HIGH REPUBLIC III: EYE OF DARKNESS (NOVELA);22,00;Planeta Cómic;Novela de ciencia ficción;Castellano;456;Tapa blanda;19/02/2025;2025;https://imagessl7.casadellibro.com/a/l/s7/47/9788411617147.webp;327
+587;nc87;MERIDIANO CERO;14,95;Minotauro;Novela de ciencia ficción;Castellano;160;Tapa blanda;15/01/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/13/9788445010013.webp;323
+588;nc88;THE HORUS HERESY: SIEGE OF TERRA Nº 04 SATURNINO;21,95;Minotauro;Novela de ciencia ficción;Castellano;480;Tapa blanda;19/03/2025;2025;https://imagessl2.casadellibro.com/a/l/s7/42/9788445018842.webp;297
+589;nc89;EL LIBRO DE LAS PUERTAS;23,90;Maeva Ediciones;Novela de ciencia ficción;Castellano;464;Tapa dura;13/11/2024;2024;https://imagessl0.casadellibro.com/a/l/s7/90/9788410260290.webp;328
+590;nc90;UNA MEMORIA LLAMADA IMPERIO;20,95;Nocturna Ediciones;Novela de ciencia ficción;Castellano;480;Tapa blanda;16/09/2024;2024;https://imagessl8.casadellibro.com/a/l/s7/48/9788419680648.webp;329
+591;nc91;BELISARIUS CAWL: LA GRAN OBRA;20,95;Minotauro;Novela de ciencia ficción;Castellano;352;Tapa blanda;17/05/2023;2023;https://imagessl3.casadellibro.com/a/l/s7/93/9788445015193.webp;284
+592;nc92;THE HORUS HERESY Nº 54/54 LA DAGA ENTERRADA;20,95;Minotauro;Novela de ciencia ficción;Castellano;352;Tapa blanda;30/11/2022;2022;https://imagessl3.casadellibro.com/a/l/s7/23/9788445008423.webp;330
+593;nc93;LA NARANJA MECÁNICA;24,95;Minotauro;Novela de ciencia ficción;Castellano;306;Tapa dura;16/11/2022;2022;https://imagessl6.casadellibro.com/a/l/s7/16/9788445013816.webp;331
+594;nc94;EL HOMBRE QUE CAYÓ A LA TIERRA;18,90;Alfaguara;Novela de ciencia ficción;Castellano;240;Tapa blanda;02/02/2023;2023;https://imagessl3.casadellibro.com/a/l/s7/53/9788420464053.webp;332
+595;nc95;STAR WARS.THRAWN: ASCENDENCIA  CHAOS RISING Nº 03/03 (NOVELA);22,00;Planeta Cómic;Novela de ciencia ficción;Castellano;640;Tapa blanda;06/04/2022;2022;https://imagessl3.casadellibro.com/a/l/s7/63/9788411121163.webp;333
+597;nc97;VISION CIEGA;21,95;Alamut;Novela de ciencia ficción;Castellano;298;Tapa dura;11/04/2019;2019;https://imagessl1.casadellibro.com/a/l/s7/01/9788498891201.webp;334
+598;nc98;THE HORUS HERESY Nº 53/54 MUERTE TITÁNICA;20,95;Minotauro;Novela de ciencia ficción;Castellano;368;Tapa blanda;23/11/2022;2022;https://imagessl6.casadellibro.com/a/l/s7/16/9788445008416.webp;284
+599;nc99;EL FIN DE LA ETERNIDAD;12,95;Algar Editorial;Novela de ciencia ficción;Castellano;320;Tapa dura;01/05/2022;2022;https://imagessl5.casadellibro.com/a/l/s7/55/9788491425755.webp;316
+600;nc100;ESCUADRON CIELO: LA COLECCION;22,90;Nova;Novela de ciencia ficción;Castellano;696;Tapa blanda;23/06/2022;2022;https://imagessl7.casadellibro.com/a/l/s7/57/9788418037757.webp;252
+601;nt1;CASA DE HOJAS;34,90;Duomo Ediciones;Novela de terror;Castellano;736;Tapa blanda;16/06/2025;2025;https://imagessl9.casadellibro.com/a/l/s7/29/9788410346529.webp;335
+602;nt2;DRÁCULA;45,00;Minotauro;Novela de terror;Castellano;536;Tapa dura;25/06/2025;2025;https://imagessl2.casadellibro.com/a/l/s7/02/9788445019702.webp;336
+603;nt3;NUESTRA PARTE DE NOCHE (PREMIO HERRALDE DE NOVELA 2019) (PREMIO NACIONAL DE LA CRITICA 2019);24,90;Editorial Anagrama S.A.U.;Novela de terror;Castellano;672;Tapa blanda;27/11/2019;2019;https://imagessl9.casadellibro.com/a/l/s7/59/9788433998859.webp;337
+604;nt4;SALITRE Y CENIZAS. LA CORONA DEL ORÁCULO I;20,00;El Transbordador;Novela de terror;Castellano;325;Tapa blanda con solapas;21/04/2025;2025;https://imagessl4.casadellibro.com/a/l/s7/94/9788412881394.webp;338
+606;nt6;EL CEREMONIAL;19,00;Valdemar;Novela de terror;Castellano;752;Tapa dura;28/05/2025;2025;https://imagessl4.casadellibro.com/a/l/s7/94/9788477029694.webp;94
+607;nt7;CARRIE;22,90;Plaza & Janes;Novela de terror;Castellano;288;Tapa dura;17/10/2024;2024;https://imagessl7.casadellibro.com/a/l/s7/77/9788401035777.webp;4
+608;nt8;LOS PELIGROS DE FUMAR EN LA CAMA;18,90;Editorial Anagrama S.A.U.;Novela de terror;Castellano;232;Tapa blanda;01/02/2017;2017;https://imagessl8.casadellibro.com/a/l/s7/48/9788433998248.webp;337
+609;nt9;EL PLANETA DE LOS MUERTOS;27,50;Valdemar;Novela de terror;Castellano;416;Tapa dura;28/05/2025;2025;https://imagessl0.casadellibro.com/a/l/s7/70/9788477029670.webp;339
+610;nt10;LAS ABANDONADAS;21,90;Ediciones Destino;Novela de terror;Castellano;456;Tapa blanda;02/07/2025;2025;https://imagessl6.casadellibro.com/a/l/s7/36/9788423368136.webp;340
+611;nt11;MAESTROS DEL HORROR DE ARKHAM HOUSE;33,00;Valdemar;Novela de terror;Castellano;640;Tapa dura;01/09/2017;2017;https://imagessl3.casadellibro.com/a/l/s7/03/9788477028703.webp;94
+612;nt12;NARRATIVA COMPLETA (VOL. I);34,70;Valdemar;Novela de terror;Castellano;832;Tapa dura;01/01/2011;2011;https://imagessl0.casadellibro.com/a/l/s7/90/9788477025290.webp;341
+613;nt13;EL SANTUARIO DE LA MONTAÑA SILENCIOSA;12,90;Newton Compton Editores;Novela de terror;Castellano;256;Tapa dura;28/04/2025;2025;https://imagessl2.casadellibro.com/a/l/s7/12/9788410359512.webp;342
+614;nt14;DRACULA (CLÁSICOS ILUSTRADOS);15,95;Editorial Alma;Novela de terror;Castellano;488;Tapa dura;03/02/2021;2018;https://imagessl6.casadellibro.com/a/l/s7/36/9788415618836.webp;336
+615;nt15;HORRORSTOR;18,50;Editorial Hidra;Novela de terror;Castellano;244;Tapa blanda;14/02/2022;2022;https://imagessl6.casadellibro.com/a/l/s7/86/9788417615086.webp;343
+616;nt16;ORÁCULO;21,95;Nocturna Ediciones;Novela de terror;Castellano;512;Tapa blanda;23/06/2025;2025;https://imagessl4.casadellibro.com/a/l/s7/84/9788419680884.webp;344
+617;nt17;CRISÁLIDA;21,95;Impedimenta;Novela de terror;Castellano;272;Tapa dura;24/02/2025;2025;https://imagessl1.casadellibro.com/a/l/s7/91/9788419581891.webp;345
+618;nt18;HIPERBÓREA;24,00;Valdemar;Novela de terror;Castellano;320;Tapa dura;01/10/2014;2014;https://imagessl2.casadellibro.com/a/l/s7/82/9788477027782.webp;339
+619;nt19;POBRES CRIATURAS;16,99;Libros Walden;Novela de terror;Castellano;344;Tapa blanda;12/02/2024;2024;https://imagessl2.casadellibro.com/a/l/s7/42/9788409537242.webp;346
+620;nt20;NO TEMAS A LA PARCA;24,00;La Biblioteca de Carfax;Novela de terror;Castellano;496;Tapa blanda;19/05/2025;2025;https://imagessl8.casadellibro.com/a/l/s7/68/9788412822168.webp;347
+621;nt21;CUENTOS VICTORIANOS DE FANTASMAS PARA NAVIDAD;21,00;Minotauro;Novela de terror;Castellano;360;Tapa blanda;20/11/2024;2024;https://imagessl1.casadellibro.com/a/l/s7/61/9788445018361.webp;94
+622;nt22;EL HOMBRE SIN NOMBRE;18,95;Minotauro;Novela de terror;Castellano;400;Tapa blanda;16/04/2025;2025;https://imagessl3.casadellibro.com/a/l/s7/03/9788445019603.webp;348
+623;nt23;HIPERBÓREA;24,00;Valdemar;Novela de terror;Castellano;320;Tapa dura;01/10/2014;2014;https://imagessl2.casadellibro.com/a/l/s7/82/9788477027782.webp;339
+624;nt24;NO TEMAS A LA PARCA;24,00;La Biblioteca de Carfax;Novela de terror;Castellano;496;Tapa blanda;19/05/2025;2025;https://imagessl8.casadellibro.com/a/l/s7/68/9788412822168.webp;347
+625;nt25;LA VUELTA DE TUERCA;22,80;Valdemar;Novela de terror;Castellano;208;Tapa dura;05/05/2022;2022;https://imagessl8.casadellibro.com/a/l/s7/98/9788477029298.webp;349
+626;nt26;EL EXTRAÑO CASO DE DR. JEKYLL Y MR. HYDE (CLASICOS);8,95;Editorial Alma;Novela de terror;Castellano;96;Tapa dura;06/03/2019;2019;https://imagessl7.casadellibro.com/a/l/s7/67/9788417430467.webp;350
+627;nt27;NARRATIVA COMPLETA (VOL. 2);36,80;Valdemar;Novela de terror;Castellano;960;Tapa dura;01/02/2010;2010;https://imagessl0.casadellibro.com/a/l/s7/70/9788477025870.webp;341
+628;nt28;SIEMPRE HEMOS VIVIDO EN EL CASTILLO;18,50;Editorial Minuscula, S.L.U.;Novela de terror;Castellano;204;Tapa blanda;11/01/2017;2017;https://imagessl7.casadellibro.com/a/l/s7/67/9788494534867.webp;351
+629;nt29;ACERCATE;21,90;La Biblioteca de Carfax;Novela de terror;Castellano;224;Tapa blanda;03/05/2023;2023;https://imagessl0.casadellibro.com/a/l/s7/20/9788412564020.webp;352
+630;nt30;EL HIJO DEL TIEMPO (EL DESCUBRIMIENTO DE LAS BRUJAS 4);20,80;Suma;Novela de terror;Castellano;520;Tapa dura;17/11/2022;2022;https://imagessl2.casadellibro.com/a/l/s7/32/9788491297932.webp;353
+631;nt31;VIENEN CUANDO HACE FRÍO (NE);17,95;Minotauro;Novela de terror;Castellano;256;Tapa blanda;19/03/2025;2025;https://imagessl8.casadellibro.com/a/l/s7/98/9788445019498.webp;348
+632;nt32;RELATOS DE VAMPIROS;15,95;Editorial Alma;Novela de terror;Castellano;320;Tapa dura;01/09/2021;2021;https://imagessl8.casadellibro.com/a/l/s7/48/9788418008948.webp;94
+633;nt33;MORIR DE MIEDO;21,95;Siruela;Novela de terror;Castellano;412;Tapa dura;23/10/2019;2019;https://imagessl4.casadellibro.com/a/l/s7/24/9788417996024.webp;94
+634;nt34;SI TE GUSTA LA OSCURIDAD;24,90;Plaza & Janes;Novela de terror;Castellano;704;Tapa dura;13/06/2024;2024;https://imagessl9.casadellibro.com/a/l/s7/69/9788401032769.webp;4
+635;nt35;INSOMNIO. LOS DARK TALES DE LA BRITISH LIBRARY;12,90;Duomo Ediciones;Novela de terror;Castellano;204;Tapa blanda;06/05/2024;2024;https://imagessl1.casadellibro.com/a/l/s7/21/9788419834621.webp;94
+636;nt36;MI CORAZÓN ES UNA MOTOSIERRA;23,00;La Biblioteca de Carfax;Novela de terror;Castellano;464;Tapa blanda;30/10/2023;2023;https://imagessl1.casadellibro.com/a/l/s7/51/9788412564051.webp;347
+637;nt37;EN LAS MONTAÑAS DE LA LOCURA;6,50;Mestas Ediciones, S.L.;Novela de terror;Castellano;160;Tapa blanda;11/08/2023;2023;https://imagessl9.casadellibro.com/a/l/s7/29/9788418765629.webp;341
+638;nt38;EL ASESINO DE LA MÁSCARA NOH;22,95;Contraluz Editorial;Novela de terror;Castellano;552;Tapa dura;22/02/2024;2024;https://imagessl2.casadellibro.com/a/l/s7/22/9788418945922.webp;354
+639;nt39;CABAL: LA RAZA DE LA NOCHE;25,00;Valdemar;Novela de terror;Castellano;272;Tapa dura;01/03/2023;2023;https://imagessl3.casadellibro.com/a/l/s7/73/9788477029373.webp;355
+640;nt40;EDGAR ALLAN POE. EDICION ANOTADA;55,00;Ediciones Akal;Novela de terror;Castellano;552;Tapa dura;07/10/2022;2022;https://imagessl0.casadellibro.com/a/l/s7/40/9788446052340.webp;356
+641;nt41;UNA CABEZA LLENA DE FANTASMAS;18,95;Nocturna Ediciones;Novela de terror;Castellano;389;Tapa blanda;06/11/2017;2017;https://imagessl2.casadellibro.com/a/l/s7/62/9788416858262.webp;357
+642;nt42;EL REY DE AMARILLO;24,00;Valdemar;Novela de terror;Castellano;320;Tapa dura;01/12/2011;2011;https://imagessl9.casadellibro.com/a/l/s7/19/9788477027119.webp;358
+643;nt43;TIBURÓN;21,90;Editorial Planeta;Novela de terror;Castellano;416;Tapa dura;07/05/2025;2025;https://imagessl2.casadellibro.com/a/l/s7/72/9788408303572.webp;359
+644;nt44;ALFRED HITCHCOCK PRESENTA: CUENTOS PARA LEER CON LA LUZ ENCENDIDA;22,00;Blackie Books;Novela de terror;Castellano;312;Tapa dura;16/11/2022;2022;https://imagessl6.casadellibro.com/a/l/s7/16/9788419172716.webp;360
+645;nt45;CALLIOPE. LA VOZ DE LAS LLAMAS;17,95;Minotauro;Novela de terror;Castellano;448;Tapa blanda;03/09/2025;2025;https://imagessl7.casadellibro.com/a/l/s7/37/9788445020937.webp;361
+646;nt46;FRANKENSTEIN TOMÁS HIJO;30,00;Minotauro;Novela de terror;Castellano;384;Tapa dura;24/09/2025;2025;https://imagessl5.casadellibro.com/a/l/s7/95/9788445019795.webp;362
+647;nt47;LA MALDICIÓN DE HILL HOUSE;19,50;Editorial Minuscula, S.L.U.;Novela de terror;Castellano;272;Tapa blanda;02/10/2019;2019;https://imagessl5.casadellibro.com/a/l/s7/95/9788494836695.webp;351
+648;nt48;HEX;21,95;Nocturna Ediciones;Novela de terror;Castellano;512;Tapa blanda;20/01/2020;2020;https://imagessl4.casadellibro.com/a/l/s7/24/9788417834524.webp;344
+649;nt49;EL COLOR QUE CAYO DEL CIELO;10,00;Pulpture;Novela de terror;Castellano;74;Tapa blanda con solapas;13/01/2020;2020;https://imagessl4.casadellibro.com/a/l/s7/84/9788494995484.webp;341
+650;nt50;MÁS ALLÁ DE LOS EONES (2ª ED.);33,50;Valdemar;Novela de terror;Castellano;688;Tapa dura;27/02/2019;2019;https://imagessl6.casadellibro.com/a/l/s7/56/9788477028956.webp;341
+651;nt51;LA LLAMADA DE CTHULHU (EDICION ILUSTRADA);7,95;Editorial Alma;Novela de terror;Castellano;96;Tapa blanda;28/09/2017;2017;https://imagessl3.casadellibro.com/a/l/s7/83/9788415618683.webp;341
+652;nt52;DRACULA;32,90;Valdemar;Novela de terror;Castellano;688;Tapa dura;01/02/2010;2010;https://imagessl2.casadellibro.com/a/l/s7/22/9788477025122.webp;336
+655;nt55;RELATOS;17,00;Ediciones Letra Grande;Novela de terror;Castellano;354;Tapa blanda;25/09/2023;2023;https://imagessl9.casadellibro.com/a/l/s7/29/9788412708929.webp;356
+656;nt56;FRANKENSTEIN;12,95;Gran Travesía;Novela de terror;Castellano;320;Tapa dura;13/09/2023;2023;https://imagessl5.casadellibro.com/a/l/s7/55/9786075576855.webp;362
+657;nt57;LOS CRIMENES DE HAMLET;22,50;Contraluz Editorial;Novela de terror;Castellano;408;Tapa dura;23/02/2023;2023;https://imagessl7.casadellibro.com/a/l/s7/57/9788418945557.webp;354
+658;nt58;EL FIN DE LOS DIAS (NE);18,95;Minotauro;Novela de terror;Castellano;496;Tapa blanda;25/01/2023;2023;https://imagessl1.casadellibro.com/a/l/s7/51/9788445014851.webp;363
+659;nt59;LOS LOBOS DEL BOSQUE DE LA ETERNIDAD;29,90;Editorial Anagrama S.A.U.;Novela de terror;Castellano;928;Tapa blanda;12/02/2025;2025;https://imagessl4.casadellibro.com/a/l/s7/04/9788433929204.webp;364
+660;nt60;EL RESURRECCIONISTA;25,00;Minotauro;Novela de terror;Castellano;192;Tapa dura;22/01/2025;2025;https://imagessl8.casadellibro.com/a/l/s7/78/9788445019078.webp;365
+663;nt63;EL FIN DE LOS DIAS (NE);18,95;Minotauro;Novela de terror;Castellano;496;Tapa blanda;25/01/2023;2023;https://imagessl1.casadellibro.com/a/l/s7/51/9788445014851.webp;363
+664;nt64;LOS CRIMENES DE HAMLET;22,50;Contraluz Editorial;Novela de terror;Castellano;408;Tapa dura;23/02/2023;2023;https://imagessl7.casadellibro.com/a/l/s7/57/9788418945557.webp;354
+665;nt65;LA CASA DE LOS CIEN ESCALONES;21,90;Obscura Editorial, Sl;Novela de terror;Castellano;368;Tapa blanda;16/10/2024;2024;https://imagessl6.casadellibro.com/a/l/s7/16/9788412839616.webp;366
+667;nt67;EL RESURRECCIONISTA;25,00;Minotauro;Novela de terror;Castellano;192;Tapa dura;22/01/2025;2025;https://imagessl8.casadellibro.com/a/l/s7/78/9788445019078.webp;365
+668;nt68;LOS LOBOS DEL BOSQUE DE LA ETERNIDAD;29,90;Editorial Anagrama S.A.U.;Novela de terror;Castellano;928;Tapa blanda;12/02/2025;2025;https://imagessl4.casadellibro.com/a/l/s7/04/9788433929204.webp;364
+669;nt69;LA ENSENADA DEL DIABLO;22,95;Dilatando Mentes Editorial;Novela de terror;Castellano;544;Tapa blanda;27/01/2025;2025;https://imagessl9.casadellibro.com/a/l/s7/59/9788412906059.webp;368
+670;nt70;CUENTOS COMPLETOS DE TERROR, LOCURA Y MUERTE;36,80;Valdemar;Novela de terror;Castellano;936;Tapa dura;01/03/2011;2011;https://imagessl1.casadellibro.com/a/l/s7/21/9788477026921.webp;369
+672;nt72;QUE MOU ELS MORTS;19,90;Obscura Editorial, Sl;Novela de terror;Catalán;196;Tapa blanda;10/06/2024;2024;https://imagessl1.casadellibro.com/a/l/s7/71/9788412732771.webp;370
+673;nt73;FRANKENSTEIN;12,95;Gran Travesía;Novela de terror;Castellano;320;Tapa dura;13/09/2023;2023;https://imagessl5.casadellibro.com/a/l/s7/55/9786075576855.webp;362
+674;nt74;LA CHICA DE AL LADO;22,70;La Biblioteca de Carfax;Novela de terror;Castellano;340;Tapa blanda;09/11/2020;2020;https://imagessl6.casadellibro.com/a/l/s7/96/9788494923296.webp;371
+675;nt75;LA CASA AL FINAL DE NEEDLESS STREET;22,95;Alianza Editorial;Novela de terror;Castellano;328;Tapa blanda;09/09/2021;2021;https://imagessl1.casadellibro.com/a/l/s7/01/9788413624501.webp;372
+676;nt76;OBSCURA 2: DIEZ RELATOS;21,90;Obscura Editorial, Sl;Novela de terror;Castellano;368;Tapa dura;17/06/2021;2021;https://imagessl5.casadellibro.com/a/l/s7/65/9788412256765.webp;373
+677;nt77;LA LLAMADA DE CTHULHU;22,00;Minotauro;Novela de terror;Castellano;64;Tapa dura;02/04/2019;2019;https://imagessl7.casadellibro.com/a/l/s7/67/9788445006467.webp;341
+678;nt78;LAS AVENTURAS DE ARTHUR GORDON PYM;14,95;Editorial Alma;Novela de terror;Castellano;240;Tapa dura;04/06/2019;2019;https://imagessl6.casadellibro.com/a/l/s7/06/9788417430306.webp;356
+679;nt79;EL CUERVO;9,95;Editorial Alma;Novela de terror;Castellano;72;Tapa dura;07/10/2020;2020;https://imagessl0.casadellibro.com/a/l/s7/60/9788418008160.webp;356
+680;nt80;CICLO COMPLETO DE RANDOLPH CARTER;35,00;Costas de Carcosa;Novela de terror;Castellano;403;Tapa blanda con solapas;14/09/2020;2020;https://imagessl7.casadellibro.com/a/l/s7/37/9788494960437.webp;341
+682;nt82;LOS CRIMENES DE HAMLET;22,50;Contraluz Editorial;Novela de terror;Castellano;408;Tapa dura;23/02/2023;2023;https://imagessl7.casadellibro.com/a/l/s7/57/9788418945557.webp;354
+683;nt83;TEATRO GROTTESCO;25,00;Valdemar;Novela de terror;Castellano;304;Tapa dura;02/04/2016;2016;https://imagessl2.casadellibro.com/a/l/s7/22/9788477028222.webp;374
+684;nt84;CUENTOS COMPLETOS;18,95;Plutón Ediciones;Novela de terror;Castellano;936;Tapa blanda;01/10/2019;2019;https://imagessl4.casadellibro.com/a/l/s7/84/9788417477684.webp;356
+685;nt85;APOCALIPSIS ISLAND INTEGRAL;29,90;Plan B Publicaciones, S.L.;Novela de terror;Castellano;864;Tapa dura;18/11/2021;2021;https://imagessl6.casadellibro.com/a/l/s7/66/9788418898266.webp;375
+686;nt86;DIENTES ROJOS;20,90;Obscura Editorial, Sl;Novela de terror;Castellano;376;Tapa blanda;04/11/2021;2021;https://imagessl9.casadellibro.com/a/l/s7/09/9788412382709.webp;376
+687;nt87;EL CASTELL D´OTRANTO;16,50;Laertes Editorial, S.L.;Novela de terror;Catalán;194;Tapa blanda;02/12/2021;2021;https://imagessl9.casadellibro.com/a/l/s7/69/9788418292569.webp;377
+688;nt88;LA PLUMA MAGICA DE GWENDY (LA CAJA DE BOTONES DE GWENDY 2);21,90;Suma;Novela de terror;Castellano;384;Tapa dura;28/04/2022;2022;https://imagessl0.casadellibro.com/a/l/s7/70/9788491296270.webp;378
+689;nt89;STAR WARS LAS TROPAS DE LA MUERTE (NE);18,00;Planeta Cómic;Novela de terror;Castellano;256;Tapa blanda;06/10/2021;2021;https://imagessl7.casadellibro.com/a/l/s7/87/9788413414287.webp;379
+690;nt90;LA SOMBRA SOBRE INNSMOUTH;11,39;Editorial Sapere Aude;Novela de terror;Castellano;146;Tapa blanda;16/09/2021;2021;https://imagessl8.casadellibro.com/a/l/s7/28/9788418168628.webp;341
+691;nt91;ALFRED HITCHCOCK PRESENTA: CUENTOS QUE MI MADRE NUNCA ME CONTÓ. L OS RELATOS FAVORITOS DEL MAESTRO DEL SUSPENSE;22,00;Blackie Books;Novela de terror;Castellano;320;Tapa dura;11/11/2020;2020;https://imagessl8.casadellibro.com/a/l/s7/38/9788418187438.webp;94
+692;nt92;EL QUE ACECHA EN EL UMBRAL;17,90;Espuela de Plata;Novela de terror;Castellano;216;Tapa blanda;15/03/2021;2021;https://imagessl3.casadellibro.com/a/l/s7/73/9788418153273.webp;341
+693;nt93;LOS CUADERNOS LOVECRAFT Nº 03. LAS RATAS DE LAS PAREDES;11,95;Minotauro;Novela de terror;Castellano;128;Tapa dura;23/02/2022;2022;https://imagessl8.casadellibro.com/a/l/s7/18/9788445010518.webp;341
+694;nt94;LOS CUADERNOS LOVECRAFT Nº 02. LA CIUDAD SIN NOMBRE;11,95;Minotauro;Novela de terror;Castellano;88;Tapa dura;19/05/2021;2021;https://imagessl6.casadellibro.com/a/l/s7/96/9788445009796.webp;341
+695;nt95;ANTOLOGÍA DE RELATOS DE MIEDO (EDICIÓN REVISADA 2021);35,34;Editorial Alma;Novela de terror;Castellano;288;Tapa dura;10/02/2021;2021;https://imagessl6.casadellibro.com/a/l/s7/86/9788418008986.webp;94
+696;nt96;CARMILLA;10,95;Editorial Alma;Novela de terror;Castellano;128;Tapa dura;03/03/2021;2021;https://imagessl4.casadellibro.com/a/l/s7/24/9788418395024.webp;380
+697;nt97;ASUNTOS DE MUERTOS;20,00;Ediciones el Transbordador;Novela de terror;Castellano;294;Tapa blanda con solapas;28/01/2021;2021;https://imagessl0.casadellibro.com/a/l/s7/40/9788412252040.webp;381
+698;nt98;CUENTOS;23,90;Rba Libros;Novela de terror;Castellano;888;Tapa dura;24/01/2019;2019;https://imagessl8.casadellibro.com/a/l/s7/98/9788491875598.webp;356
+699;nt99;EL HORLA Y OTROS RELATOS MACABROS;6,50;Mestas Ediciones, S.L.;Novela de terror;Castellano;128;Tapa blanda;01/08/2018;2018;https://imagessl4.casadellibro.com/a/l/s7/74/9788417244774.webp;369
